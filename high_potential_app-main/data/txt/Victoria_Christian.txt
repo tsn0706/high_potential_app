@@ -1,0 +1,30 @@
+Name: Victoria Christian
+Email: swatkins@example.com
+Phone: 8507590308.0
+
+Education:
+Jadavpur University, 2022
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+SQL, Pandas, NLP, Scikit-learn, TensorFlow
+
+Resume Text:
+NamE: Victoria ChRistian
+        Email: swatkins@example.com
+        Phone: 8507590308
+
+        EducaTioN:
+        BAChelor's DegreE fROm Jadavpur UnivERSity, 2022
+
+        WorK EXperienCe:
+        5 years of experience working as A DAta Scientist.
+
+        SkillS:
+        SQL, Pandas, NLP, Scikit-lEarN, TensorFlow
+
+        PrOjects:
+        Worked on multiple indusTry-relevanT projects demonstrating eXperTise iN SQL, Pandas, NLP.
+         Bridged software engineering and business operations

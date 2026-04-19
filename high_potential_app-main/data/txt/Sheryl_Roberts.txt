@@ -1,0 +1,25 @@
+Name: Sheryl Roberts
+Email: juarezkyle@example.com
+Phone: 2583383631.0
+
+Education:
+IIT Delhi, 2015
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+Pandas, NumPy, Statistics, NLP, Data Visualization
+
+Resume Text:
+Name: Sheryl Roberts
+        Email: juarezkyle@example.com
+        Phone: 2583383631
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2015
+
+        Work Experience:
+        0 years of experience working as a Data Scientist.
+
+        Skill

@@ -1,0 +1,26 @@
+Name: Aaron Rodriguez
+Email: delacruzshannon@example.net
+Phone: 2364355891.0
+
+Education:
+IIT Delhi, 2015
+
+Work Experience:
+1 years of experience working as a HR Executive.
+
+Skills:
+Machine Learning, Data Visualization, SQL, Python, Pandas
+
+Resume Text:
+Name: Aaron Rodriguez
+        Email: delacruzshannon@example.net
+        Phone: 2364355891
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2015
+
+        Work Experience:
+        1 years of experience working as a Data Scientist.
+
+        Skills:
+        Machine Learning, Dat

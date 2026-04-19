@@ -1,0 +1,30 @@
+Name: Jennifer Ward
+Email: mcleanbradley@example.org
+Phone: 5208634854.0
+
+Education:
+Jadavpur University, 2016
+
+Work Experience:
+1 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Statistics, SQL, Data Visualization, NumPy
+
+Resume Text:
+Name: Jennifer WaRd
+        EmaiL: mcLeanbradLey@eXample.org
+        Phone: 5208634854
+
+        EducATion:
+        BAcheloR's Degree from JAdavpur UniVersitY, 2016
+
+        WoRk ExpErieNce:
+        1 years oF expErienCe working as a Data ScientiSt.
+
+        Skills:
+        TeNsORFLow, Statistics, SQL, Data VisuAlIzation, NumPY
+
+        PrOjects:
+        WorkEd on multiple INduStry-reLevaNt projects demoNstratinG expertise in TenSorFlOw, STAtistIcs, SQL.
+         Proficient in project management and stakeholder coordination. Worked in cross-domain tech-finance environment

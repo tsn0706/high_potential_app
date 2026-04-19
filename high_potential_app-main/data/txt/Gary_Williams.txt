@@ -1,0 +1,32 @@
+Name: Gary Williams
+Email: janice64@example.com
+Phone: 6807289650.0
+
+Education:
+Anna University, 2016
+
+Work Experience:
+6 years of experience working as a Software Engineer.
+
+Skills:
+Git, Microservices, C++, REST API, Kubernetes
+
+Resume Text:
+Name: Gary Williams
+        Email: janice64@example.com
+        Phone: 6807289650
+
+        Education:
+        Bachelor's Degree from Anna University, 2016
+
+        Work Experience:
+        6 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, Microservices, C++, REST API, Kubernetes
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, Microservices, C++.
+         
+
+ Results-driven professional with analytical mindset.

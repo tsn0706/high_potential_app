@@ -1,0 +1,30 @@
+Name: Catherine Miller
+Email: lewiskathryn@example.com
+Phone: 4338591666.0
+
+Education:
+IIT Delhi, 2020
+
+Work Experience:
+1 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, Data Visualization, TensorFlow, Machine Learning, NLP
+
+Resume Text:
+Name: Catherine Miller
+        Email: lewiskathryn@example.com
+        Phone: 4338591666
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2020
+
+        Work Experience:
+        1 years of experience working as a Data Scientist.
+
+        Skills:
+        Statistics, Data Visualization, TensorFlow, Machine Learning, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, Data Visualization, TensorFlow.
+         Experienced in leadership and cross-functional collaboration. Worked in cross-domain tech-finance environment

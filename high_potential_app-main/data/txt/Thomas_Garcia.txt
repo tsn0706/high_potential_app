@@ -1,0 +1,45 @@
+Name: Thomas Garcia
+Email: michael73@example.org
+Phone: 6127223541.0
+
+Education:
+Anna University, 2023
+
+Work Experience:
+5 years of experience working as a Financial Analyst.
+
+Skills:
+Machine Learning, Data Visualization, Statistics, NumPy, NLP
+
+Resume Text:
+Name: Thomas Garcia
+        Email: michael73@example.org
+        Phone: 6127223541
+
+        Education:
+        Bachelor's Degree from Anna University, 2023
+
+        Work Experience:
+        5 years of experience working as a  Scientist.
+
+        Skills:
+        Machine Learning,  Visualization, Statistics, NumPy, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Machine Learning,  Visualization, Statistics.
+         
+        Name: Thomas Garcia
+        Email: michael73@example.org
+        Phone: 6127223541
+
+        Education:
+        Bachelor's Degree from Anna University, 2023
+
+        Work Experience:
+        5 years of experience working as a  Scientist.
+
+        Skills:
+        Machine Learning,  Visualization, Statistics, NumPy, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Machine Learning,  Visualization, Statistics.

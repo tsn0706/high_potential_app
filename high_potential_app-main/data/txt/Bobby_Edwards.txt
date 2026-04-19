@@ -1,0 +1,25 @@
+Name: Bobby Edwards
+Email: cgreen@example.net
+Phone: 5577211818.0
+
+Education:
+IIM Ahmedabad, 2016
+
+Work Experience:
+6 years of experience working as a HR Executive.
+
+Skills:
+Data Visualization, NLP, TensorFlow, NumPy, Python
+
+Resume Text:
+Name: Bobby Edwards
+        Email: cgreen@example.net
+        Phone: 5577211818
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2016
+
+        Work Experience:
+        6 years of experience working as a Data Scientist.
+
+        Skills:

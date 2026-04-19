@@ -1,0 +1,30 @@
+Name: Mark Johnson MD
+Email: walterstodd@example.com
+Phone: 7212781936.0
+
+Education:
+Delhi University, 2015
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+Statistic,  TensorFlow,  NumPy,  Data Visualization,  SQL
+
+Resume Text:
+Name: Mark Johnson MD
+        Email: walterstodd@example.com
+        Phone: 7212781936
+
+        Education:
+        Bachelor's Degree from Delhi University, 2015
+
+        Work Experience:
+        6 years of experience working as a Data Scientist.
+
+        Skills:
+        Statistics, TensorFlow, NumPy, Data Visualization, SQL
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, TensorFlow, NumPy.
+         Worked in cross-domain tech-finance environment

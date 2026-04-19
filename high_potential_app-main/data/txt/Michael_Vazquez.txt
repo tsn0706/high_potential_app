@@ -1,0 +1,29 @@
+Name: Michael Vazquez
+Email: chasejohnson@example.com
+Phone: 9712587852.0
+
+Education:
+Anna University, 2018
+
+Work Experience:
+3 years of experience working as a Software Engineer.
+
+Skills:
+C++,  OOP,  Kubernetes, Pytho,  Git
+
+Resume Text:
+Name: Michael Vazquez
+        Email: chasejohnson@example.com
+        Phone: 9712587852
+
+        Education:
+        Bachelor's Degree from Anna University, 2018
+
+        Work Experience:
+        3 years of experience working as a Software Engineer.
+
+        Skills:
+        C++, OOP, Kubernetes, Python, Git
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in C++, OOP, Kubernetes.

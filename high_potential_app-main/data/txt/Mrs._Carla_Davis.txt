@@ -1,0 +1,32 @@
+Name: Mrs. Carla Davis
+Email: christina73@example.org
+Phone: 5014247787.0
+
+Education:
+Anna University, 2018
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+SQL, Scikit-learn, Pandas, Statistics, NLP
+
+Resume Text:
+Name: Mrs. CarLa Davis
+        Email: chriStina73@example.orG
+        Phone: 5014247787
+
+        Education:
+        Bachelor's DEgree from Anna University, 2018
+
+        Work Experience:
+        3 years of experieNce woRking as a DAta ScienTist.
+
+        SkillS:
+        SQL, Scikit-leaRn, PaNdAs, Statistics, NLP
+
+        Projects:
+        Worked on multiple InDUstRy-relEvant projects deMonstratiNg ExpertisE in SQL, Scikit-lEarn, PAndas.
+         
+
+ Proficient in project management and stakeholder coordination.

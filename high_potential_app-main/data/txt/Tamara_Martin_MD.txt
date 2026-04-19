@@ -1,0 +1,29 @@
+Name: Tamara Martin MD
+Email: charlesedwards@example.org
+Phone: 5136368149.0
+
+Education:
+Mumbai University, 2015
+
+Work Experience:
+1 years of experience working as a Software Engineer.
+
+Skills:
+Git, REST API, Python, Microservices, OOP
+
+Resume Text:
+Name: Tamara Martin MD
+        Email: charlesedwards@example.org
+        Phone: 5136368149
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2015
+
+        Work Experience:
+        1 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, REST API, Python, Microservices, OOP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, REST API, Python.

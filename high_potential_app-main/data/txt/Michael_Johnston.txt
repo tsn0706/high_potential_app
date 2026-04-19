@@ -1,0 +1,32 @@
+Name: Michael Johnston
+Email: jeremy28@example.net
+Phone: 5269195566.0
+
+Education:
+Mumbai University, 2016
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+SQL, TensorFlow, Python, NumPy, NLP
+
+Resume Text:
+Name: MichaEl Johnston
+        Email: Jeremy28@ExampLE.net
+        Phone: 5269195566
+
+        Education:
+        Bachelor'S DEgree from Mumbai UnIversity, 2016
+
+        Work ExpeRience:
+        7 yeArs of experience working as a DatA SciEntist.
+
+        SkiLls:
+        SQL, TensorFlow, Python, NumPY, NLP
+
+        Projects:
+        WorkeD on multiPle industry-relEvaNT pRojects dEmonStraTing expErtise In SQL, TensorFlow, PythOn.
+         
+
+ Bridged software engineering and business operations

@@ -1,0 +1,25 @@
+Name: Kathleen Farmer
+Email: timothyphillips@example.org
+Phone: 8844695068.0
+
+Education:
+Jadavpur University, 2015
+
+Work Experience:
+5 years of experience working as a Software Engineer.
+
+Skills:
+Scikit-learn, TensorFlow, Statistics, Machine Learning, Pandas
+
+Resume Text:
+Name: Kathleen Farmer
+        Email: timothyphillips@example.org
+        Phone: 8844695068
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2015
+
+        Work Experience:
+        5 years of experience working as a  Scientist.
+
+        Skills:

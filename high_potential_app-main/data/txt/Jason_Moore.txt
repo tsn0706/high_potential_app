@@ -1,0 +1,30 @@
+Name: Jason Moore
+Email: nan
+Phone: nan
+
+Education:
+nan, 2016
+
+Work Experience:
+1 years of experience working as a HR Executive.
+
+Skills:
+nan
+
+Resume Text:
+Name: Jason Moore
+        Email: maurice99@example.net
+        Phone: 0585966715
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2016
+
+        Work Experience:
+        1 years of experience working as a Data Scientist.
+
+        Skills:
+        Data Visualization, TensorFlow, Scikit-learn, Machine Learning, NumPy
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Data Visualization, TensorFlow, Scikit-learn.
+         Results-driven professional with analytical mindset.

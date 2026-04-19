@@ -1,0 +1,29 @@
+Name: Stephanie Spears
+Email: lschmitt@example.net
+Phone: 6992651704.0
+
+Education:
+Jadavpur University, 2018
+
+Work Experience:
+4 years of experience working as a Software Engineer.
+
+Skills:
+Microservices, Kubernetes, REST API, Python, Git
+
+Resume Text:
+Name: Stephanie Spears
+        Email: lschmitt@example.net
+        Phone: 6992651704
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2018
+
+        Work Experience:
+        4 years of experience working as a Software Engineer.
+
+        Skills:
+        Microservices, Kubernetes, REST API, , Git
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Microservices, Kubernetes, REST API.

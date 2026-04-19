@@ -1,0 +1,23 @@
+Name: Michael Cook
+Email: john27@example.org
+Phone: 8803783379.0
+
+Education:
+Delhi University, 2015
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+Scikit-learn, Data Visualization, SQL, TensorFlow, NLP
+
+Resume Text:
+Name: Michael Cook
+        Email: john27@example.org
+        Phone: 8803783379
+
+        Education:
+        Bachelor's Degree from Delhi University, 2015
+
+        Work Experience:
+        6 years of experience working as a Data S

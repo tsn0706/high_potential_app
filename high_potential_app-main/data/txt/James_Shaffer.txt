@@ -1,0 +1,32 @@
+Name: James Shaffer
+Email: xmartin@example.net
+Phone: 4503278855.0
+
+Education:
+Anna University, 2021
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Data Visualization, Machine Learning, Pandas, Scikit-learn
+
+Resume Text:
+Name: James Shaffer
+        Email: xmartin@example.net
+        Phone: 4503278855
+
+        Education:
+        Bachelor's Degree from Anna University, 2021
+
+        Work Experience:
+        0 years of experience working as a  Scientist.
+
+        Skills:
+        TensorFlow,  Visualization, Machine Learning, Pandas, Scikit-learn
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in TensorFlow,  Visualization, Machine Learning.
+         
+
+ Strong communication skills and teamwork experience. Bridged software engineering and business operations

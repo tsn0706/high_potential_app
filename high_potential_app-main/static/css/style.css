@@ -1,0 +1,394 @@
+/* -------------------------
+   側邊欄
+------------------------- */
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 60px; /* 一指寬 */
+    height: 100vh;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    z-index: 1000;
+    box-shadow: 2px 0 12px rgba(0,0,0,0.2);
+    position:fixed;
+}
+
+.sidebar a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.3rem;
+    transition: all 0.25s ease;
+    position: relative;
+    box-sizing: border-box;
+    border-boX-shadow: 0 0 8px rgba(255,255,255,0.2);
+}
+
+.sidebar a:hover {
+    background: rgba(255,255,255,0.15);
+    box-shadow: 0 0 12px rgba(120,180,255,0.5);
+    transform: translateX(2px);
+}
+
+.sidebar a.active {
+    background: rgba(255,255,255,0.2);
+    box-shadow: 0 0 18px rgba(120,180,255,0.6);
+}
+
+.sidebar a[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    left: 70px;
+    background: rgba(0,0,0,0.75);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+    font-size: 0.85rem;
+}
+
+/* -------------------------
+   調整主內容區距離側邊欄
+------------------------- */
+.main-content{
+    margin-left: 70px;      /* 避開 sidebar */
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center; /* 水平置中 */
+    padding: 40px 20px;
+}
+
+.main-card{
+    width: 100%;
+    max-width: 1100px;
+}
+
+/* =====================================
+   Global / Base
+===================================== */
+
+body{
+    margin:0;
+    font-family:'Noto Sans TC',sans-serif;
+
+    /* 提亮科技背景 */
+    background:
+    radial-gradient(circle at 15% 20%, #2b3b6f 0%, transparent 35%),
+    radial-gradient(circle at 85% 25%, #3457a1 0%, transparent 40%),
+    radial-gradient(circle at 35% 80%, #4a6fcf 0%, transparent 40%),
+    linear-gradient(135deg, #0f1b3a, #1f2f5a);
+
+    min-height:100vh;
+    overflow-x:hidden;
+    color:#e8f1ff;
+}
+
+
+/* =====================================
+   Animated Background
+===================================== */
+
+.background{
+    position:fixed;
+    width:100%;
+    height:100%;
+    z-index:-1;
+    overflow:hidden;
+}
+
+/* blob 基礎 */
+.blob{
+    position:absolute;
+    width:480px;
+    height:480px;
+    border-radius:50%;
+    filter:blur(130px);
+    mix-blend-mode:screen;
+    pointer-events:none;
+}
+
+/* blob 顏色 */
+.blob1{
+    background:radial-gradient(circle, rgba(110,160,255,0.85), rgba(185, 110, 255, 0.535));
+}
+.blob2{
+    background:radial-gradient(circle, rgba(151, 80, 238, 0.85), rgba(181, 120, 255, 0.422));
+}
+.blob3{
+    background:radial-gradient(circle, rgba(228, 69, 180, 0.75), rgba(102, 32, 122, 0));
+}
+.blob4{
+    background:radial-gradient(circle, rgba(120,255,220,0.7), rgba(120, 255, 219, 0.249));
+}
+.blob5{
+    background:radial-gradient(circle, rgba(160,190,255,0.8), rgba(137, 15, 198, 0.563));
+}
+
+/* =====================================
+   Glass Card Layout
+===================================== */
+.main-card{
+    margin-top:60px;
+    background:rgba(255,255,255,0.15);
+    backdrop-filter:blur(20px);
+    border-radius:20px;
+    padding:40px;
+    box-shadow: 0 15px 45px rgba(0,0,0,0.25);
+}
+
+/* =====================================
+   Typography
+===================================== */
+h1{
+    text-align:center;
+    font-weight:700;
+    margin-bottom:30px;
+    color:#ffffff;
+    letter-spacing:1px;
+}
+
+/* =====================================
+   Buttons
+===================================== */
+.btn-primary{
+    background:linear-gradient(45deg, #446fbb, #5f9cff);
+    border:none;
+    font-weight:600;
+}
+.btn-primary:hover{
+    transform:translateY(-2px);
+    box-shadow: 0 6px 15px rgba(100,150,255,0.4);
+}
+
+/* =========================
+   「詳情」按鈕調整
+========================= */
+.detail-btn {
+    background-color: #f5f5f5;         /* 淺灰底 */
+    color: #383737;                     /* 深灰文字 */
+    border: 2px solid #556c95;          /* 與主背景藍色接近 */
+    padding: 4px 8px;                  /* 適度內距 */
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 0 6px rgba(108, 124, 147, 0.685);
+    transition: all 0.2s ease-in-out;
+}
+
+.detail-btn:hover {
+    background-color: #364867;         /* 深藍底 */
+    color: #ffffff;                     /* 白字 */
+    box-shadow: 0 0 12px rgba(76,139,245,0.9);
+}
+
+/* =====================================
+   DataTables Controls
+===================================== */
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info{
+    color:#dbe9ff;
+    font-weight:500;
+    margin-bottom:10px;
+}
+
+/* 搜尋框 */
+.dataTables_wrapper .dataTables_filter input{
+    background:rgba(255,255,255,0.2);
+    border:1px solid rgba(255,255,255,0.3);
+    color:#ffffff;
+    border-radius:12px;
+    padding:6px 12px;
+    backdrop-filter:blur(6px);
+}
+.dataTables_wrapper .dataTables_filter input:focus{
+    outline:none;
+    border:1px solid #7fb3ff;
+    box-shadow: 0 0 12px rgba(120,180,255,0.6);
+}
+
+
+/* =====================================
+   Modern Data Table
+===================================== */
+.modern-table{
+    color:#e8f1ff;
+    border-collapse:separate;
+    border-spacing:0 10px;
+}
+
+/* 表頭 */
+.modern-table thead th{
+    color:#9fd0ff;
+    font-weight:600;
+    background:rgba(255,255,255,0.06);
+    border-bottom:1px solid rgba(255,255,255,0.15);
+}
+
+/* row */
+.modern-table tbody tr{
+    background:rgba(255,255,255,0.08);
+    transition:all 0.25s ease;
+}
+.modern-table tbody tr:hover{
+    background:rgba(255,255,255,0.16);
+    transform:translateY(-2px);
+    box-shadow:0 6px 15px rgba(0,0,0,0.25);
+}
+
+
+table {
+    table-layout: fixed; /* 固定欄位寬度 */
+    width: 100%;         /* 整個表格滿版 */
+}
+
+.table th, .table td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.table th, .table td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* 表頭顏色加深 */
+.table thead th {
+    background-color: #e0e4ea;  /* 淺灰偏藍，對比白底 */
+    color: #333333;
+    font-weight: 600;
+}
+/* 可以再分別設定欄位寬度 */
+.table th:first-child, .table td:first-child { width: 150px; } /* 姓名 */
+
+/*================
+中間的方塊主體
+================== */
+
+.main-content {
+    margin-left: 60px; /* 側邊欄寬度 */
+    display: flex;
+    justify-content: center; /* 水平置中 */
+    padding: 40px 20px; /* 上下左右間距 */
+}
+.main-card {
+    margin-top: 10px;  /* 調整靠上 */
+}
+
+
+/* =========================
+   高潛力 / 低潛力 badge
+========================= */
+/* 高低潛力 badge 美化 */
+.badge-high,
+.badge-low {
+    display: inline-block;
+    width: 30px;
+    height: 30px; /* 接近 1:1 方形 */
+    line-height: 30px;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-align: center;
+    color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    transition: all 0.2s ease-in-out;
+}
+
+/* 高潛力：飽和綠色，科技感 */
+.badge-high {
+    background: linear-gradient(135deg, #4cbd7c, #2a8f5a);
+}
+
+/* 低潛力：飽和紅色，科技感 */
+.badge-low {
+    background: linear-gradient(135deg, #e65c5c, #b73232);
+}
+
+/* hover 微微放大效果 */
+.badge-high:hover,
+.badge-low:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/*視窗*/
+.modal-content {
+    background-color: #ffffff !important; /* 白底 */
+    color: #333333 !important;            /* 深灰文字 */
+    border-radius: 12px;
+}
+
+/* =====================================
+   Pagination
+===================================== */
+.dataTables_wrapper .pagination .page-link{
+    background:rgba(255,255,255,0.12);
+    border:1px solid rgba(255,255,255,0.2);
+    color:#e3f0ff;
+}
+.dataTables_wrapper .pagination .page-link:hover{
+    background:rgba(120,160,255,0.35);
+}
+.dataTables_wrapper .pagination .page-item.active .page-link{
+    background:linear-gradient(45deg, #4c8bf5, #5f9cff);
+    border:none;
+}
+
+/* =====================================
+   SVG Icons
+===================================== */
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 60px; /* 側邊欄寬度 */
+    height: 100vh;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* 原本可能有的 padding-top 移動到這裡 */
+    padding-top: 50px; /* 往下移的距離，可依你的框框位置調整 */
+    z-index: 1000;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.sidebar a:hover svg {
+    color: #0b121e; /* 滑鼠經過變 */
+}
+
+.tooltip {
+    /* 保留 Bootstrap 預設位置 */
+    --bs-tooltip-margin: 5px; /* 5px 距離 */
+}
+
+.tooltip-inner{
+    background:#224;      /* 深藍科技風 */
+    color:#fff;
+    font-weight:600;
+    border-radius:8px;
+    padding:6px 12px;
+}
+
+/* Tooltip 箭頭顏色 */
+.tooltip.bs-tooltip-end .tooltip-arrow::before{
+    border-right-color:#224;
+}

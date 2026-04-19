@@ -1,0 +1,30 @@
+Name: Adam Arellano
+Email: lcarroll@example.org
+Phone: 3876235715.0
+
+Education:
+IIM Ahmedabad, 2023
+
+Work Experience:
+4 years of experience working as a Financial Analyst.
+
+Skills:
+C++, Docker, Microservices, REST API, Git
+
+Resume Text:
+Name: Adam Arellano
+        Email: lcarroll@example.org
+        Phone: 3876235715
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2023
+
+        Work Experience:
+        4 years of experience working as a Software Engineer.
+
+        Skills:
+        C++, Docker, Microservices, REST API, Git
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in C++, Docker, Microservices.
+         Experienced in leadership and cross-functional collaboration. Worked in cross-domain tech-finance environment

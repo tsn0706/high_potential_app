@@ -1,0 +1,23 @@
+Name: Joshua Gonzales
+Email: hebertashley@example.net
+Phone: 2171561072.0
+
+Education:
+Jadavpur University, 2022
+
+Work Experience:
+1 years of experience working as a Software Engineer.
+
+Skills:
+Git,  Microservices,  Kubernetes, Spring Boo,  Python
+
+Resume Text:
+Name: Joshua Gonzales
+        Email: hebertashley@example.net
+        Phone: 2171561072
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2022
+
+        Work Experience:
+        1 years of experience working as a Software Engineer.

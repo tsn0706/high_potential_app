@@ -1,0 +1,23 @@
+Name: Larry Zimmerman
+Email: fryan@example.org
+Phone: 5874261791.0
+
+Education:
+Delhi University, 2022
+
+Work Experience:
+4 years of experience working as a Marketing Manager.
+
+Skills:
+Docker, REST API, Spring Boot, Kubernetes, Python
+
+Resume Text:
+Name: Larry Zimmerman
+        Email: fryan@example.org
+        Phone: 5874261791
+
+        Education:
+        Bachelor's Degree from Delhi University, 2022
+
+        Work Experience:
+        4 years of experience working as a Software

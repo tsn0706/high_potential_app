@@ -1,0 +1,23 @@
+Name: Christine Stanley
+Email: woodsheryl@example.org
+Phone: 9990742281.0
+
+Education:
+Delhi University, 2020
+
+Work Experience:
+1 years of experience working as a Data Scientist.
+
+Skills:
+NumPy, TensorFlow, Machine Learning, Statistics, NLP
+
+Resume Text:
+Name: Christine Stanley
+        Email: woodsheryl@example.org
+        Phone: 9990742281
+
+        Education:
+        Bachelor's Degree from Delhi University, 2020
+
+        Work Experience:
+        1 years of experience working as a

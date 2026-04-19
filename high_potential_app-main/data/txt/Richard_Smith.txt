@@ -1,0 +1,23 @@
+Name: Richard Smith
+Email: stevenellis@example.org
+Phone: 7686074105.0
+
+Education:
+Delhi University, 2020
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+SQL, Scikit-learn, NLP, Python, Pandas
+
+Resume Text:
+Name: Richard Smith
+        Email: stevenellis@example.org
+        Phone: 7686074105
+
+        Education:
+        Bachelor's Degree from Delhi University, 2020
+
+        Work Experience:
+        3 years of experience working as a Data Scientist.

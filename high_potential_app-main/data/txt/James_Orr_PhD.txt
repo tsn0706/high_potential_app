@@ -1,0 +1,29 @@
+Name: James Orr PhD
+Email: duncantracy@example.org
+Phone: 8964752409.0
+
+Education:
+IIM Ahmedabad, 2022
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+Spring Boot, REST API, Git, C++, Microservices
+
+Resume Text:
+NamE: James Orr PhD
+        Email: duncantracy@example.org
+        Phone: 8964752409
+
+        EducatiOn:
+        BaChelor's Degree from IIM AHmedAbad, 2022
+
+        WorK ExpErience:
+        7 years Of eXpeRience worKing as a SoFtwAre Engineer.
+
+        SkIlls:
+        Spring Boot, REST API, Git, C++, Microservices
+
+        PRojects:
+        Worked on multiple industry-relEvant projects demonstRaTing expertise in Spring BOoT, REST API, Git.

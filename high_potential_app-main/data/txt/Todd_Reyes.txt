@@ -1,0 +1,23 @@
+Name: Todd Reyes
+Email: thomasbrian@example.net
+Phone: 8475880474.0
+
+Education:
+Delhi University, 2017
+
+Work Experience:
+3 years of experience working as a Financial Analyst.
+
+Skills:
+C++, Git, Kubernetes, Java, Microservices
+
+Resume Text:
+Name: Todd Reyes
+        Email: thomasbrian@example.net
+        Phone: 8475880474
+
+        Education:
+        Bachelor's Degree from Delhi University, 2017
+
+        Work Experience:
+        3 years of experience work

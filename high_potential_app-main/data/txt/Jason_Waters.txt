@@ -1,0 +1,30 @@
+Name: Jason Waters
+Email: john90@example.com
+Phone: 674110994.0
+
+Education:
+Mumbai University, 2018
+
+Work Experience:
+4 years of experience working as a Data Scientist.
+
+Skills:
+Pandas, TensorFlow, SQL, Scikit-learn, Data Visualization
+
+Resume Text:
+Name: Jason Waters
+        Email: john90@example.com
+        Phone: 0674110994
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2018
+
+        Work Experience:
+        4 years of experience working as a Data Scientist.
+
+        Skills:
+        Pandas, TensorFlow, SQL, Scikit-learn, Data Visualization
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Pandas, TensorFlow, SQL.
+         lorem ipsum

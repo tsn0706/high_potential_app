@@ -1,0 +1,46 @@
+Name: Kerri Smith
+Email: bhamilton@example.net
+Phone: 3444529081.0
+
+Education:
+IIM Ahmedabad, 2023
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, NLP, Pandas, NumPy, SQL
+
+Resume Text:
+Name: Kerri Smith
+        Email: bhamilton@example.net
+        Phone: 3444529081
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2023
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        Statistics, NLP, Pandas, NumPy, SQL
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, NLP, Pandas.
+         miscellaneous experience Bridged software engineering and business operations 
+        Name: Kerri Smith
+        Email: bhamilton@example.net
+        Phone: 3444529081
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2023
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        Statistics, NLP, Pandas, NumPy, SQL
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, NLP, Pandas.
+         miscellaneous experience Bridged software engineering and business operations

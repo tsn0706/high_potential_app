@@ -1,0 +1,30 @@
+Name: Deborah Aguilar
+Email: yhunt@example.com
+Phone: 1368089673.0
+
+Education:
+Jadavpur University, 2015
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+SQL, Statistics, TensorFlow, Machine Learning, Scikit-learn
+
+Resume Text:
+Name: Deborah Aguilar
+        Email: yhunt@example.com
+        Phone: 1368089673
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2015
+
+        Work Experience:
+        0 years of experience working as a  Scientist.
+
+        Skills:
+        SQL, Statistics, TensorFlow, Machine Learning, Scikit-learn
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, Statistics, TensorFlow.
+         Combined analytics and marketing responsibilities

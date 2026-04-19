@@ -1,0 +1,29 @@
+Name: Victoria Ryan
+Email: paynechristina@example.org
+Phone: 8835646565.0
+
+Education:
+IIM Ahmedabad, 2017
+
+Work Experience:
+4 years of experience working as a Software Engineer.
+
+Skills:
+Kubernetes, C++, Git, Spring Boot, Docker
+
+Resume Text:
+Name: Victoria Ryan
+        Email: paynechristina@example.org
+        Phone: 8835646565
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2017
+
+        Work Experience:
+        4 years of experience working as a Software Engineer.
+
+        Skills:
+        Kubernetes, C++, Git, Spring Boot, Docker
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Kubernetes, C++, Git.

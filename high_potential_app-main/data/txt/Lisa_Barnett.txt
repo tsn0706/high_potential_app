@@ -1,0 +1,23 @@
+Name: Lisa Barnett
+Email: ebrown@example.org
+Phone: 5961947654.0
+
+Education:
+Jadavpur University, 2021
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+SQL, NumPy, Data Visualization, Pandas, NLP
+
+Resume Text:
+Name: Lisa Barnett
+        Email: ebrown@example.org
+        Phone: 5961947654
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2021
+
+        Work Experience:
+        5 years of experience working

@@ -1,0 +1,23 @@
+Name: John Estes
+Email: yhernandez@example.com
+Phone: 1735022186.0
+
+Education:
+BITS Pilani, 2019
+
+Work Experience:
+6 years of experience working as a Software Engineer.
+
+Skills:
+C++, Spring Boot, Python, Microservices, OOP
+
+Resume Text:
+Name: John Estes
+        Email: yhernandez@example.com
+        Phone: 1735022186
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2019
+
+        Work Experience:
+        6 years of experience working as a Software Engineer.

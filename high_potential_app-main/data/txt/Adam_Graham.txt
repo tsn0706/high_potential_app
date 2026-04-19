@@ -1,0 +1,25 @@
+Name: Adam Graham
+Email: adamsbrittany@example.com
+Phone: 9794571540.0
+
+Education:
+Mumbai University, 2016
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Data Visualization, Scikit-learn, Pandas, Machine Learning
+
+Resume Text:
+Name: Adam Graham
+        Email: adamsbrittany@example.com
+        Phone: 9794571540
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2016
+
+        Work Experience:
+        5 years of experience working as a Data Scientist.
+
+        Skills:

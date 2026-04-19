@@ -1,0 +1,45 @@
+Name: Sarah Miles
+Email: kennethaguilar@example.net
+Phone: 2560249991.0
+
+Education:
+IIT Delhi, 2015
+
+Work Experience:
+4 years of experience working as a HR Executive.
+
+Skills:
+Scikit-learn, NumPy, SQL, TensorFlow, NLP
+
+Resume Text:
+Name: Sarah Miles
+        Email: kennethaguilar@example.net
+        Phone: 2560249991
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2015
+
+        Work Experience:
+        4 years of experience working as a Data Scientist.
+
+        Skills:
+        Scikit-learn, NumPy, SQL, TensorFlow, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Scikit-learn, NumPy, SQL.
+         
+        Name: Sarah Miles
+        Email: kennethaguilar@example.net
+        Phone: 2560249991
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2015
+
+        Work Experience:
+        4 years of experience working as a Data Scientist.
+
+        Skills:
+        Scikit-learn, NumPy, SQL, TensorFlow, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Scikit-learn, NumPy, SQL.

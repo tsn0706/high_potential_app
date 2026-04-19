@@ -1,0 +1,30 @@
+Name: Jane Woods
+Email: phyllis29@example.net
+Phone: 9002600720.0
+
+Education:
+Mumbai University, 2020
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Python, NumPy, Machine Learning, NLP
+
+Resume Text:
+Name: Jane Woods
+        Email: phyllis29@example.net
+        Phone: 9002600720
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2020
+
+        Work Experience:
+        5 years of experience working as a  Scientist.
+
+        Skills:
+        TensorFlow, Python, NumPy, Machine Learning, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in TensorFlow, Python, NumPy.
+         Proficient in project management and stakeholder coordination.

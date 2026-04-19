@@ -1,0 +1,29 @@
+Name: Elizabeth Mathis
+Email: smithkristin@example.org
+Phone: 7202189892.0
+
+Education:
+IIT Delhi, 2016
+
+Work Experience:
+4 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, Python, Data Visualization, SQL, NLP
+
+Resume Text:
+Name: Elizabeth Mathis
+        Email: smithkristin@example.org
+        Phone: 7202189892
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2016
+
+        Work Experience:
+        4 years of experience working as a Data Scientist.
+
+        Skills:
+        Statistics, Python, Data Visualization, SQL, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, Python, Data Visualization.

@@ -1,0 +1,45 @@
+Name: Jonathan Williams
+Email: boneal@example.net
+Phone: 7792051457.0
+
+Education:
+Anna University, 2020
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+NumPy, Scikit-learn, SQL, Data Visualization, TensorFlow
+
+Resume Text:
+Name: Jonathan Williams
+        Email: boneal@example.net
+        Phone: 7792051457
+
+        Education:
+        Bachelor's Degree from Anna University, 2020
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        NumPy, Scikit-learn, SQL, Data Visualization, TensorFlow
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in NumPy, Scikit-learn, SQL.
+         
+        Name: Jonathan Williams
+        Email: boneal@example.net
+        Phone: 7792051457
+
+        Education:
+        Bachelor's Degree from Anna University, 2020
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        NumPy, Scikit-learn, SQL, Data Visualization, TensorFlow
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in NumPy, Scikit-learn, SQL.

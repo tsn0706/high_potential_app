@@ -1,0 +1,29 @@
+Name: Natasha Turner
+Email: jessicasellers@example.org
+Phone: 5841465361.0
+
+Education:
+Anna University, 2015
+
+Work Experience:
+4 years of experience working as a Software Engineer.
+
+Skills:
+REST API, Kubernetes, Git, C++, Docker
+
+Resume Text:
+Name: Natasha Turner
+        Email: jessicasellers@example.org
+        Phone: 5841465361
+
+        Education:
+        Bachelor's Degree from Anna University, 2015
+
+        Work Experience:
+        4 years of experience working as a Software Engineer.
+
+        Skills:
+        REST API, Kubernetes, Git, C++, Docker
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in REST API, Kubernetes, Git.

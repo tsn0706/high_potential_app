@@ -1,0 +1,23 @@
+Name: Barbara Castro
+Email: mark03@example.com
+Phone: 5907808249.0
+
+Education:
+Mumbai University, 2016
+
+Work Experience:
+8 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, NumPy, SQL, Machine Learning, Scikit-learn
+
+Resume Text:
+Name: Barbara Castro
+        Email: mark03@example.com
+        Phone: 5907808249
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2016
+
+        Work Experience:
+        8 years of experience working as

@@ -1,0 +1,23 @@
+Name: Travis Shelton
+Email: stanleytina@example.com
+Phone: 7397216451.0
+
+Education:
+Jadavpur University, 2022
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, Machine Learning, TensorFlow, Scikit-learn, Data Visualization
+
+Resume Text:
+NaMe: TRavis Shelton
+        Email: sTanleyTina@EXample.com
+        Phone: 7397216451
+
+        Education:
+        BaChelOr's Degree from Jadavpur University, 2022
+
+        Work ExperienCE:
+        3 Years of experience working as a DaTa ScIentI

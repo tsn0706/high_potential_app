@@ -1,0 +1,30 @@
+Name: Curtis Walsh
+Email: robertduffy@example.org
+Phone: 9351506442.0
+
+Education:
+IIT Delhi, 2018
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Python, NumPy, Machine Learning, Statistics
+
+Resume Text:
+Name: Curtis Walsh
+        Email: robertduffy@example.org
+        Phone: 9351506442
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2018
+
+        Work Experience:
+        5 years of experience working as a Data Scientist.
+
+        Skills:
+        NLP, Python, NumPy, Machine Learning, Statistics
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in NLP, Python, NumPy.
+         Results-driven professional with analytical mindset.

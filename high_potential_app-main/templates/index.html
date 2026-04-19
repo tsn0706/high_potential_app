@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高潛力人才分析平台</title>
+
+    <!-- Bootstrap & Google Fonts -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+    <!-- DataTables CSS -->
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+
+    <!-- 自訂 CSS -->
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+</head>
+
+<body>
+    <!-- 側邊欄 -->
+    <div class="sidebar">
+        <nav>
+            <a href="/" class="sidebar-icon active" data-bs-toggle="tooltip" data-bs-placement="right" title="回到首頁">
+                <i class="fas fa-home"></i>
+            </a>
+            <a href="#" class="sidebar-icon" data-bs-toggle="tooltip" data-bs-placement="right" title="系統設定">
+                <i class="fas fa-cog"></i>
+            </a>
+            <a href="#" class="sidebar-icon" data-bs-toggle="tooltip" data-bs-placement="right" title="技能分析">
+                <i class="fas fa-chart-line"></i>
+            </a>
+        </nav>
+    </div>
+
+    <!-- Blob 背景 -->
+    <div class="blob-container">
+        <div class="blob blob1"></div>
+        <div class="blob blob2"></div>
+        <div class="blob blob3"></div>
+        <div class="blob blob4"></div>
+        <div class="blob blob5"></div>
+    </div>
+
+    <!-- 主內容區 -->
+    <div class="main-content">
+        <div class="main-card">
+            <h1>高潛力人才分析平台</h1>
+
+            <form method="POST" enctype="multipart/form-data" class="row g-3 justify-content-center mb-5">
+                <div class="col-md-6">
+                    <input class="form-control form-control-lg" type="file" name="file" multiple required>
+                </div>
+                <div class="col-auto">
+                    <button type="submit" class="btn btn-primary btn-lg px-5 shadow">分析人才</button>
+                </div>
+            </form>
+
+            {% if results %}
+            <hr>
+            <div class="main-card with-results">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h3 class="mb-0">分析結果報告</h3>
+                    <small class="text-muted">* 點擊表頭欄位名稱可切換排序</small>
+                </div>
+
+                <div class="table-responsive">
+                    <table id="resultTable" class="table table-hover align-middle modern-table">
+                        <thead class="table-light">
+                            <tr>
+                                <th>姓名</th>
+                                <th>技能</th>
+                                <th>經驗</th>
+                                <th>教育</th>
+                                <th>職位</th>
+                                <th>履歷</th>
+                                <th>總分</th>
+                                <th>高潛力</th>
+                                <th>詳情</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for r in results %}
+                            <tr>
+                                <td class="fw-bold">{{ r['Name'] }}</td>
+                                <td>{{ r['Skills_Score'] }}</td>
+                                <td>{{ r['Experience_Score'] }}</td>
+                                <td>{{ r['Education_Score'] }}</td>
+                                <td>{{ r['JobRole_Score'] }}</td>
+                                <td>{{ r['Resume_Score'] }}</td>
+                                <td class="text-primary fw-bold">{{ r['Total_Score'] }}</td>
+                                <td>
+                                    {% if r['High_Potential'] %}
+                                    <span class="badge-high">是</span>
+                                    {% else %}
+                                    <span class="badge-low">否</span>
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    <button class="detail-btn" data-bs-toggle="modal" data-bs-target="#detailModal"
+                                        data-desc="{{ r['Resume_Text'] }}">詳情</button>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="detailModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">履歷詳情</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <pre id="modal-text" style="white-space: pre-wrap;"></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery & DataTables -->
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+    <script src="{{ url_for('static', filename='js/blob.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/table.js') }}"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#resultTable').DataTable();
+        });
+
+        const detailModal = document.getElementById('detailModal');
+        detailModal.addEventListener('show.bs.modal', event => {
+            const button = event.relatedTarget;
+            const desc = button.getAttribute('data-desc');
+            detailModal.querySelector('#modal-text').textContent = desc;
+        });
+
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+        tooltipTriggerList.map(function (el) {
+            return new bootstrap.Tooltip(el, { offset: [0, 20] });
+        });
+    </script>
+
+    <script>
+        document.addEventListener('hidden.bs.modal', function (event) {
+            const backdrops = document.querySelectorAll('.modal-backdrop');
+            backdrops.forEach(bd => bd.remove());
+        });
+    </script>
+
+</body>
+
+</html>

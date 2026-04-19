@@ -1,0 +1,46 @@
+Name: Christopher Martinez
+Email: nan
+Phone: nan
+
+Education:
+nan, 2020
+
+Work Experience:
+8 years of experience working as a Financial Analyst.
+
+Skills:
+nan
+
+Resume Text:
+Name: Christopher Martinez
+        Email: martinjudy@example.com
+        Phone: 5349978283
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2020
+
+        Work Experience:
+        8 years of experience working as a Software Engineer.
+
+        Skills:
+        Docker, Git, , OOP, C++
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Docker, Git, .
+         lorem ipsum 
+        Name: Christopher Martinez
+        Email: martinjudy@example.com
+        Phone: 5349978283
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2020
+
+        Work Experience:
+        8 years of experience working as a Software Engineer.
+
+        Skills:
+        Docker, Git, , OOP, C++
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Docker, Git, .
+         lorem ipsum

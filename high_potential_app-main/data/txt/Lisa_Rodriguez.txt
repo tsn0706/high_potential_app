@@ -1,0 +1,23 @@
+Name: Lisa Rodriguez
+Email: moralesmichael@example.org
+Phone: 9689674085.0
+
+Education:
+IIT Delhi, 2022
+
+Work Experience:
+8 years of experience working as a Software Engineer.
+
+Skills:
+Docker, Python, REST API, Git, OOP
+
+Resume Text:
+Name: Lisa Rodriguez
+        Email: moralesmichael@example.org
+        Phone: 9689674085
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2022
+
+        Work Experience:
+        8 years of experience working as a Software Engineer.

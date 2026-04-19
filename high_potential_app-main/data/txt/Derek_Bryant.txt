@@ -1,0 +1,30 @@
+Name: Derek Bryant
+Email: castilloamy@example.com
+Phone: 510463534.0
+
+Education:
+Anna University, 2020
+
+Work Experience:
+0 years of experience working as a Software Engineer.
+
+Skills:
+Spring Boot, Git, OOP, Python, Docker
+
+Resume Text:
+Name: Derek Bryant
+        Email: castilloamy@example.com
+        Phone: 0510463534
+
+        Education:
+        Bachelor's Degree from Anna University, 2020
+
+        Work Experience:
+        0 years of experience working as a Software Engineer.
+
+        Skills:
+        Spring Boot, Git, OOP, Python, Docker
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Spring Boot, Git, OOP.
+         Combined analytics and marketing responsibilities

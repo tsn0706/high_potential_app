@@ -1,0 +1,45 @@
+Name: Meredith Schroeder
+Email: waltersdeanna@example.com
+Phone: 3172548815.0
+
+Education:
+Delhi University, 2023
+
+Work Experience:
+5 years of experience working as a HR Executive.
+
+Skills:
+SQL, Python, Data Visualization, TensorFlow, Scikit-learn
+
+Resume Text:
+Name: Meredith Schroeder
+        Email: waltersdeanna@example.com
+        Phone: 3172548815
+
+        Education:
+        Bachelor's Degree from Delhi University, 2023
+
+        Work Experience:
+        5 years of experience working as a Data Scientist.
+
+        Skills:
+        SQL, , Data Visualization, TensorFlow, Scikit-learn
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, , Data Visualization.
+         
+        Name: Meredith Schroeder
+        Email: waltersdeanna@example.com
+        Phone: 3172548815
+
+        Education:
+        Bachelor's Degree from Delhi University, 2023
+
+        Work Experience:
+        5 years of experience working as a Data Scientist.
+
+        Skills:
+        SQL, , Data Visualization, TensorFlow, Scikit-learn
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, , Data Visualization.

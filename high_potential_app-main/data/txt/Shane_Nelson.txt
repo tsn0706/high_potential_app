@@ -1,0 +1,29 @@
+Name: Shane Nelson
+Email: brownstephanie@example.net
+Phone: 8110625015.0
+
+Education:
+Mumbai University, 2020
+
+Work Experience:
+4 years of experience working as a Data Scientist.
+
+Skills:
+Pandas, NLP, Scikit-learn, NumPy, Statistics
+
+Resume Text:
+Name: Shane Nelson
+        Email: brownstephanie@example.net
+        Phone: 8110625015
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2020
+
+        Work Experience:
+        4 years of experience working as a Data Scientist.
+
+        Skills:
+        Pandas, NLP, Scikit-learn, NumPy, Statistics
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Pandas, NLP, Scikit-learn.

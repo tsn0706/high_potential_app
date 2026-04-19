@@ -1,0 +1,30 @@
+Name: Stephanie Smith
+Email: joshua19@example.org
+Phone: 1287495937.0
+
+Education:
+Anna University, 2017
+
+Work Experience:
+4 years of experience working as a Software Engineer.
+
+Skills:
+Statistics, Python, NumPy, Machine Learning, NLP
+
+Resume Text:
+Name: Stephanie Smith
+        Email: joshua19@example.org
+        Phone: 1287495937
+
+        Education:
+        Bachelor's Degree from Anna University, 2017
+
+        Work Experience:
+        4 years of experience working as a  Scientist.
+
+        Skills:
+        Statistics, , NumPy, Machine Learning, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, , NumPy.
+         lorem ipsum

@@ -1,0 +1,30 @@
+Name: Travis French
+Email: yfisher@example.org
+Phone: 817732416.0
+
+Education:
+Mumbai University, 2022
+
+Work Experience:
+3 years of experience working as a Software Engineer.
+
+Skills:
+Git, OOP, Java, Python, Microservices
+
+Resume Text:
+Name: Travis French
+        Email: yfisher@example.org
+        Phone: 0817732416
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2022
+
+        Work Experience:
+        3 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, OOP, Java, , Microservices
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, OOP, Java.
+         Proficient in project management and stakeholder coordination. Worked in cross-domain tech-finance environment

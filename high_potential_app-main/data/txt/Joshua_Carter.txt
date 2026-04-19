@@ -1,0 +1,29 @@
+Name: Joshua Carter
+Email: mewing@example.com
+Phone: 3686729561.0
+
+Education:
+IIM Ahmedabad, 2023
+
+Work Experience:
+6 years of experience working as a Software Engineer.
+
+Skills:
+Python, Kubernetes, Docker, Microservices, Java
+
+Resume Text:
+Name: Joshua Carter
+        Email: mewing@example.com
+        Phone: 3686729561
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2023
+
+        Work Experience:
+        6 years of experience working as a Software Engineer.
+
+        Skills:
+        Python, Kubernetes, Docker, Microservices, Java
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Python, Kubernetes, Docker.

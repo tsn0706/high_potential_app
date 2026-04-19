@@ -1,0 +1,32 @@
+Name: Alisha Kirk
+Email: joyce15@example.com
+Phone: 2348469164.0
+
+Education:
+Anna University, 2017
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+Pandas, SQL, Machine Learning, Scikit-learn, Statistics
+
+Resume Text:
+Name: Alisha Kirk
+        Email: joyce15@example.com
+        Phone: 2348469164
+
+        Education:
+        Bachelor's Degree from Anna University, 2017
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        Pandas, SQL, Machine Learning, Scikit-learn, Statistics
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Pandas, SQL, Machine Learning.
+         
+
+ Proficient in project management and stakeholder coordination.
