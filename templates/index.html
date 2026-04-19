@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高潛力人才分析平台</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+    <div class="sidebar">
+        <nav>
+            <a href="/" class="sidebar-icon active" data-bs-toggle="tooltip" data-bs-placement="right" title="回到首頁">
+                <i class="fas fa-home"></i>
+            </a>
+            <a href="/settings" class="sidebar-icon" data-bs-toggle="tooltip" data-bs-placement="right" title="系統設定">
+                <i class="fas fa-cog"></i>
+            </a>
+            <a href="#" id="openSkillPanel" class="sidebar-icon" data-bs-toggle="tooltip" data-bs-placement="right" title="技能分析">
+                <i class="fas fa-chart-line"></i>
+            </a>
+        </nav>
+    </div>
+
+    <div class="blob-container">
+        <div class="blob blob1"></div>
+        <div class="blob blob2"></div>
+        <div class="blob blob3"></div>
+        <div class="blob blob4"></div>
+        <div class="blob blob5"></div>
+    </div>
+
+    <div class="main-content">
+        <div class="main-card">
+            <h1>高潛力人才分析平台</h1>
+
+            <form method="POST" enctype="multipart/form-data" class="row g-3 justify-content-center mb-5">
+                <div class="col-md-6">
+                    <input class="form-control form-control-lg" type="file" name="file" multiple required>
+                </div>
+                <div class="col-auto">
+                    <button type="submit" class="btn btn-primary btn-lg px-5 shadow">分析人才</button>
+                </div>
+            </form>
+
+            {% if results %}
+            <hr>
+            <div class="main-card with-results">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h3 class="mb-0">分析結果報告</h3>
+                    <small class="text-muted">* 點擊表頭欄位名稱可切換排序</small>
+                </div>
+
+                <div class="filter-section mb-4 p-4 rounded" style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255, 255, 255, 0.1);">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h5 class="text-light mb-3"><i class="fas fa-filter"></i> 專業技能過濾 </h5>
+                        <div id="customSearchContainer"></div>
+                    </div>
+                    <div class="row g-3">
+                        <div class="col-md-3">
+                            <select id="majorCategory" class="form-select modern-select">
+                                <option value="">-- 請選擇大分類 --</option>
+                                <option value="programming"> 程式設計(Programming) </option>
+                                <option value="business"> 商業管理(Business) </option>
+                                <option value="design"> 美術設計(Design) </option>
+                                <option value="New"> 新分類(Testing) </option>
+                            </select>
+                        </div>
+                        <div class="col-md-9">
+                            <div id="subCategoryContainer" class="d-flex flex-wrap gap-2">
+                                <span class="text-muted mt-1" id="subCategoryHint"> 請先選擇大分類... </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="table-responsive">
+                    <table id="resultTable" class="table table-hover align-middle modern-table">
+                        <thead class="table-light">
+                            <tr>
+                                <th>姓名</th>
+                                <th>技能</th>
+                                <th>經驗</th>
+                                <th>教育</th>
+                                <th>職位</th>
+                                <th>履歷</th>
+                                <th>總分</th>
+                                <th>高潛力</th>
+                                <th>操作</th>
+                                <th style="display:none;">隱藏全文</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for r in results %}
+                            <tr>
+                                <td class="fw-bold">{{ r['Name'] }}</td>
+                                <td>{{ r['Skills_Score'] }}</td>
+                                <td>{{ r['Experience_Score'] }}</td>
+                                <td>{{ r['Education_Score'] }}</td>
+                                <td>{{ r['JobRole_Score'] }}</td>
+                                <td>{{ r['Resume_Score'] }}</td>
+                                <td class="text-primary fw-bold">{{ r['Total_Score'] }}</td>
+                                <td>
+                                    {% if r['High_Potential'] %}
+                                    <span class="badge-high">是</span>
+                                    {% else %}
+                                    <span class="badge-low">否</span>
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    <button class="detail-btn" data-name="{{ r['Name'] }}">
+                                        詳情
+                                    </button>
+                                </td>
+                                <td style="display:none;">{{ r.get('Raw_Text', '') | lower }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="modal fade" id="detailModal" tabindex="-1" aria-labelledby="detailModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="detailModalLabel">履歷分析詳情</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <pre id="modal-text"
+                        style="white-space: pre-wrap; word-wrap: break-word; font-family: 'Noto Sans TC', sans-serif; background: #f8f9fa; padding: 15px; border-radius: 5px; min-height: 200px;"></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="offcanvas offcanvas-end skill-offcanvas" tabindex="-1" id="skillAnalysisPanel" aria-labelledby="skillAnalysisPanelLabel">
+        <div class="offcanvas-header">
+            <div>
+                <h5 class="offcanvas-title" id="skillAnalysisPanelLabel">技能分析</h5>
+                <small class="text-light opacity-75">點選候選人查看技能結構、推薦職位與補強方向</small>
+            </div>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div id="skillPanelEmpty" class="skill-empty-state">
+                請先上傳並分析履歷，這裡才會顯示技能分析結果。
+            </div>
+
+            <div id="skillPanelContent" style="display:none;">
+                <div class="mb-3">
+                    <label for="skillCandidateSelect" class="form-label text-light">候選人</label>
+                    <select id="skillCandidateSelect" class="form-select modern-select"></select>
+                </div>
+
+                <div class="skill-top-summary">
+                    <div class="skill-stat-card">
+                        <div class="skill-stat-label">推薦職位</div>
+                        <div class="skill-stat-value" id="analysisPredictedRole">-</div>
+                    </div>
+                    <div class="skill-stat-card">
+                        <div class="skill-stat-label">技能完整度</div>
+                        <div class="skill-stat-value" id="analysisSkillCompleteness">-</div>
+                    </div>
+                    <div class="skill-stat-card">
+                        <div class="skill-stat-label">技能類別覆蓋</div>
+                        <div class="skill-stat-value" id="analysisCategoryCoverage">-</div>
+                    </div>
+                </div>
+
+                <div class="skill-section-card">
+                    <h6>綜合摘要</h6>
+                    <div class="analysis-name-row">
+                        <span id="analysisCandidateName" class="fw-bold"></span>
+                        <span id="analysisHighPotential" class="analysis-pill"></span>
+                    </div>
+                    <p class="mb-2" id="analysisStrengthSummary"></p>
+                    <p class="mb-0" id="analysisGapAnalysis"></p>
+                </div>
+
+                <div class="skill-section-card">
+                    <h6>技能分類</h6>
+                    <div id="analysisSkillCategories"></div>
+                </div>
+
+                <div class="skill-section-card">
+                    <h6>技能熟練度</h6>
+                    <div id="analysisSkillLevels" class="chip-container"></div>
+                </div>
+
+                <div class="skill-section-card">
+                    <h6>建議補強技能</h6>
+                    <div id="analysisMissingSkills" class="chip-container"></div>
+                </div>
+
+                <div class="skill-section-card">
+                    <h6>職位匹配分數</h6>
+                    <div id="analysisRoleScores"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+
+    <script src="{{ url_for('static', filename='js/blob.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/table.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+</body>
+
+</html>

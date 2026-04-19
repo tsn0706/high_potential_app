@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 系統設定 </title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+</head>
+
+<body>
+    <div class="sidebar">
+        <nav>
+            <a href="/" class="sidebar-icon" data-bs-toggle="tooltip" data-bs-placement="right" title="回到首頁">
+                <i class="fas fa-home"></i>
+            </a>
+            <a href="/settings" class="sidebar-icon active" data-bs-toggle="tooltip" data-bs-placement="right" title="系統設定">
+                <i class="fas fa-cog"></i>
+            </a>
+            <a href="#" class="sidebar-icon" data-bs-toggle="tooltip" data-bs-placement="right" title="技能分析">
+                <i class="fas fa-chart-line"></i>
+            </a>
+        </nav>
+    </div>
+
+    <div class="blob-container">
+        <div class="blob blob1"></div>
+        <div class="blob blob2"></div>
+        <div class="blob blob3"></div>
+    </div>
+
+    <div class="main-content">
+        <div class="main-card">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h2><i class="fas fa-sliders-h text-primary"></i> 系統加權設定</h2>
+                <button id="saveSettingsBtn" class="btn btn-primary btn-lg px-4 shadow">
+                    <i class="fas fa-save"></i> 儲存所有設定
+                </button>
+            </div>
+
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="setting-card">
+                        <h5 class="text-light mb-3"><i class="fas fa-balance-scale"></i> 大項分數權重 </h5>
+                        <div class="mb-3">
+                            <label class="form-label text-light">專業技能(Skills)</label>
+                            <input type="number" step="0.1" class="form-control modern-input w-main-weight" data-key="Skills" value="{{ config.main_weights.Skills }}">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label text-light">經驗年資(Experience)</label>
+                            <input type="number" step="0.1" class="form-control modern-input w-main-weight" data-key="Experience" value="{{ config.main_weights.Experience }}">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label text-light">教育程度(Education)</label>
+                            <input type="number" step="0.1" class="form-control modern-input w-main-weight" data-key="Education" value="{{ config.main_weights.Education }}">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label text-light">職位相關性(JobRole)</label>
+                            <input type="number" step="0.1" class="form-control modern-input w-main-weight" data-key="JobRole" value="{{ config.main_weights.JobRole }}">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label text-light">履歷關鍵字(Resume)</label>
+                            <input type="number" step="0.1" class="form-control modern-input w-main-weight" data-key="Resume" value="{{ config.main_weights.Resume }}">
+                        </div>
+                    </div>
+
+                    <div class="setting-card">
+                        <h5 class="text-light mb-3"></i> 高潛力判定門檻</h5>
+                        <div class="mb-3">
+                            <label class="form-label text-light">總分大於等於此數值，即標示為「是」</label>
+                            <input type="number" step="1" id="thresholdInput" class="form-control modern-input" value="{{ config.threshold }}">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-7">
+                    <div class="setting-card">
+                        <h5 class="text-light mb-3"><i class="fas fa-list-ul"></i> 細項基礎分數設定 </h5>
+                        
+                        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" data-bs-toggle="pill" data-bs-target="#pills-skills">技能(Skills)</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" data-bs-toggle="pill" data-bs-target="#pills-keywords">履歷關鍵字(Keywords)</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" data-bs-toggle="pill" data-bs-target="#pills-jobrole">職位(JobRole)</button>
+                            </li>
+                        </ul>
+
+                        <div class="tab-content mt-4" id="pills-tabContent">
+                            <div class="tab-pane fade show active" id="pills-skills">
+                                <div id="Skills-container" class="sub-items-container" data-category="Skills">
+                                    {% for key, val in config.sub_items.Skills.items() %}
+                                    <div class="sub-item-row">
+                                        <input type="text" class="form-control modern-input item-key" value="{{ key }}" placeholder="例如: python">
+                                        <input type="number" step="1" class="form-control modern-input item-val" value="{{ val }}" style="width: 100px;" placeholder="分數">
+                                        <button class="btn btn-remove"><i class="fas fa-times"></i></button>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                                <button class="btn btn-outline-light mt-2 btn-add-sub" data-target="Skills"><i class="fas fa-plus"></i> 新增技能</button>
+                            </div>
+
+                            <div class="tab-pane fade" id="pills-keywords">
+                                <div id="Keywords-container" class="sub-items-container" data-category="Keywords">
+                                    {% for key, val in config.sub_items.Keywords.items() %}
+                                    <div class="sub-item-row">
+                                        <input type="text" class="form-control modern-input item-key" value="{{ key }}" placeholder="例如: project lead">
+                                        <input type="number" step="1" class="form-control modern-input item-val" value="{{ val }}" style="width: 100px;" placeholder="分數">
+                                        <button class="btn btn-remove"><i class="fas fa-times"></i></button>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                                <button class="btn btn-outline-light mt-2 btn-add-sub" data-target="Keywords"><i class="fas fa-plus"></i> 新增關鍵字</button>
+                            </div>
+
+                            <div class="tab-pane fade" id="pills-jobrole">
+                                <div id="JobRole-container" class="sub-items-container" data-category="JobRole">
+                                    {% for key, val in config.sub_items.JobRole.items() %}
+                                    <div class="sub-item-row">
+                                        <input type="text" class="form-control modern-input item-key" value="{{ key }}" placeholder="例如: software engineer">
+                                        <input type="number" step="1" class="form-control modern-input item-val" value="{{ val }}" style="width: 100px;" placeholder="分數">
+                                        <button class="btn btn-remove"><i class="fas fa-times"></i></button>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                                <button class="btn btn-outline-light mt-2 btn-add-sub" data-target="JobRole"><i class="fas fa-plus"></i> 新增職位</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/blob.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/setting.js') }}"></script>
+
+</body>
+</html>
