@@ -1,0 +1,47 @@
+{
+    "main_weights": {
+        "Skills": 1.5,
+        "Experience": 1,
+        "Education": 1.2,
+        "JobRole": 2,
+        "Resume": 0.5
+    },
+    "sub_items": {
+        "Skills": {
+            "python": 2,
+            "machine learning": 2,
+            "sql": 2,
+            "tensorflow": 2,
+            "java": 1,
+            "numpy": 1,
+            "scikit-learn": 1,
+            "statistics": 1,
+            "nlp": 1,
+            "data visualization": 1,
+            "pandas": 1,
+            "pytorch": 2,
+            "flask": 1,
+            "html": 0.5,
+            "css": 0.5
+        },
+        "Keywords": {
+            "project": 1,
+            "lead": 1,
+            "research": 1,
+            "deep learning": 1,
+            "deployment": 1
+        },
+        "JobRole": {
+            "data scientist": 1,
+            "ml engineer": 1,
+            "ai researcher": 1,
+            "software engineer": 1
+        },
+        "Education": {
+            "phd": 3,
+            "master": 2,
+            "bachelor": 1
+        }
+    },
+    "threshold": 15
+}
