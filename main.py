@@ -2,6 +2,7 @@ import os
 from flask import Flask, render_template, request, jsonify
 from utils.parser import parse_uploaded_file
 from utils.config_manager import load_config, save_config
+from pyngrok import ngrok
 
 app = Flask(__name__)
 
@@ -120,4 +121,6 @@ def save_setting():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5050)
+    public_url = ngrok.connect(5000)
+    print("公開網址：", public_url)
+    app.run(host="0.0.0.0", port=5000, debug=False)
