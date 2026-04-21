@@ -241,4 +241,10 @@ $(document).ready(function () {
     if (cachedResults.length && skillSelect && !skillSelect.value) {
         skillSelect.value = cachedResults[0].Name;
     }
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('open_skill') === '1') {
+        if (skillCanvas) skillCanvas.show();
+        const defaultName = skillSelect?.value || cachedResults[0]?.Name;
+        if (defaultName) loadSkillAnalysis(defaultName);
+    }
 });

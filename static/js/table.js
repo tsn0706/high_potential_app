@@ -2,6 +2,7 @@ $(document).ready(function () {
     // 1. 初始化 DataTable
     if (!$.fn.DataTable.isDataTable("#resultTable")) {
         $("#resultTable").DataTable({ 
+            destroy: true
             pageLength: 10, 
             lengthChange: false, 
             info: false 

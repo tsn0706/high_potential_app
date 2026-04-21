@@ -4,6 +4,7 @@ from utils.parser import parse_uploaded_file
 from utils.config_manager import load_config, save_config
 from utils.storage import load_cached_results, save_cached_results, clear_cached_results
 from utils.skill_analysis import analyze_candidate
+from pyngrok import ngrok
 
 app = Flask(__name__)
 
@@ -111,4 +112,6 @@ def save_setting():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5050)
+    public_url = ngrok.connect(5000)
+    print("公開網址：", public_url)
+    app.run(host="0.0.0.0", port=5000, debug=False)
