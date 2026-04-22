@@ -1,0 +1,30 @@
+Name: Hannah Wagner
+Email: qchang@example.org
+Phone: 6763416069.0
+
+Education:
+Delhi University, 2018
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Data Visualization, Machine Learning, Scikit-learn, Pandas
+
+Resume Text:
+Name: Hannah Wagner
+        Email: qcHang@Example.orG
+        Phone: 6763416069
+
+        Education:
+        BacheLoR's DegrEe From DelHi UnIversity, 2018
+
+        Work ExPerience:
+        3 YEars of experience woRkiNg aS A Data ScientiSt.
+
+        Skills:
+        TensorFlow, Data Visualization, Machine Learning, ScikIt-leaRn, PAndas
+
+        Projects:
+        Worked on multipLe INdustRy-relevant pRojects demoNstrating ExpERtise in TensorFlow, DaTa VisuAlIZatIon, MAchine LeArNing.
+         Strong communication skills and teamwork experience.

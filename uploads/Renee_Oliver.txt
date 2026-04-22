@@ -1,0 +1,25 @@
+Name: Renee Oliver
+Email: nan
+Phone: nan
+
+Education:
+nan, 2020
+
+Work Experience:
+0 years of experience working as a Marketing Manager.
+
+Skills:
+nan
+
+Resume Text:
+Name: Renee Oliver
+        Email: millssophia@example.net
+        Phone: 9901657796
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2020
+
+        Work Experience:
+        0 years of experience working as a Data Scientist.
+
+        Skills:

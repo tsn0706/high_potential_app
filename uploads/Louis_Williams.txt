@@ -1,0 +1,23 @@
+Name: Louis Williams
+Email: lopezshaun@example.org
+Phone: 8124828215.0
+
+Education:
+Jadavpur University, 2017
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Python, Pandas, Scikit-learn, Statistics
+
+Resume Text:
+Name: Louis Williams
+        Email: lopezshaun@example.org
+        Phone: 8124828215
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2017
+
+        Work Experience:
+        6 years of experience working as a Data Scientist.

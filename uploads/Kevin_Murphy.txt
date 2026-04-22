@@ -1,0 +1,46 @@
+Name: Kevin Murphy
+Email: blake84@example.com
+Phone: 5174610342.0
+
+Education:
+IIT Delhi, 2023
+
+Work Experience:
+2 years of experience working as a Software Engineer.
+
+Skills:
+OOP, Python, Docker, Microservices, C++
+
+Resume Text:
+Name: Kevin Murphy
+        Email: blake84@example.com
+        Phone: 5174610342
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2023
+
+        Work Experience:
+        2 years of experience working as a Software Engineer.
+
+        Skills:
+        OOP, , Docker, Microservices, C++
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in OOP, , Docker.
+         Strong communication skills and teamwork experience. Bridged software engineering and business operations 
+        Name: Kevin Murphy
+        Email: blake84@example.com
+        Phone: 5174610342
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2023
+
+        Work Experience:
+        2 years of experience working as a Software Engineer.
+
+        Skills:
+        OOP, , Docker, Microservices, C++
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in OOP, , Docker.
+         Strong communication skills and teamwork experience. Bridged software engineering and business operations

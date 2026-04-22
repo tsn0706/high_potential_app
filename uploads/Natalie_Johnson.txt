@@ -1,0 +1,30 @@
+Name: Natalie Johnson
+Email: raymondhernandez@example.net
+Phone: 7133756330.0
+
+Education:
+IIT Delhi, 2021
+
+Work Experience:
+4 years of experience working as a Data Scientist.
+
+Skills:
+Scikit-learn, TensorFlow, Python, SQL, Data Visualization
+
+Resume Text:
+Name: Natalie Johnson
+        Email: raymondhernandez@example.net
+        Phone: 7133756330
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2021
+
+        Work Experience:
+        4 years of experience working as a Data Scientist.
+
+        Skills:
+        Scikit-learn, TensorFlow, Python, SQL, Data Visualization
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Scikit-learn, TensorFlow, Python.
+         Bridged software engineering and business operations

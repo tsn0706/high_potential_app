@@ -1,0 +1,29 @@
+Name: Jason Ford
+Email: uprice@example.org
+Phone: 3728244464.0
+
+Education:
+Delhi University, 2023
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+Python, Machine Learning, SQL, TensorFlow, Statistics
+
+Resume Text:
+Name: Jason Ford
+        Email: uprice@example.org
+        Phone: 3728244464
+
+        Education:
+        Bachelor's Degree from Delhi University, 2023
+
+        Work Experience:
+        7 years of experience working as a  Scientist.
+
+        Skills:
+        , Machine Learning, SQL, TensorFlow, Statistics
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in , Machine Learning, SQL.

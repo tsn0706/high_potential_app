@@ -1,0 +1,29 @@
+Name: Jacob Richardson
+Email: bryanstewart@example.com
+Phone: 8831103813.0
+
+Education:
+Jadavpur University, 2019
+
+Work Experience:
+4 years of experience working as a Software Engineer.
+
+Skills:
+Java, Microservices, REST API, C++, OOP
+
+Resume Text:
+Name: Jacob Richardson
+        Email: bryanstewart@example.com
+        Phone: 8831103813
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2019
+
+        Work Experience:
+        4 years of experience working as a Software Engineer.
+
+        Skills:
+        Java, Microservices, REST API, C++, OOP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Java, Microservices, REST API.

@@ -1,0 +1,23 @@
+Name: Gregory Knox
+Email: nicolelee@example.org
+Phone: 7679291854.0
+
+Education:
+Delhi University, 2022
+
+Work Experience:
+1 years of experience working as a Marketing Manager.
+
+Skills:
+Java,  Docker, C++,  Kubernetes,  REST API
+
+Resume Text:
+Name: Gregory Knox
+        Email: nicolelee@example.org
+        Phone: 7679291854
+
+        Education:
+        Bachelor's Degree from Delhi University, 2022
+
+        Work Experience:
+        1 years of experience w

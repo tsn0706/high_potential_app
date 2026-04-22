@@ -1,0 +1,29 @@
+Name: Dana Adkins
+Email: lmontes@example.net
+Phone: 7490895176.0
+
+Education:
+IIM Ahmedabad, 2021
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+Python, SQL, TensorFlow, NLP, Statistics
+
+Resume Text:
+Name: Dana Adkins
+        Email: lmontes@example.net
+        Phone: 7490895176
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2021
+
+        Work Experience:
+        5 years of experience working as a Data Scientist.
+
+        Skills:
+        Python, SQL, TensorFlow, NLP, Statistics
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Python, SQL, TensorFlow.

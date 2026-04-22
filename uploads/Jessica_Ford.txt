@@ -1,0 +1,23 @@
+Name: Jessica Ford
+Email: guerrerocolleen@example.net
+Phone: 9137007393.0
+
+Education:
+IIT Delhi, 2022
+
+Work Experience:
+2 years of experience working as a Marketing Manager.
+
+Skills:
+SQL, NLP, Machine Learning, Pandas, Statistics
+
+Resume Text:
+Name: Jessica Ford
+        Email: guerrerocolleen@example.net
+        Phone: 9137007393
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2022
+
+        Work Experience:
+        2 years of experience working

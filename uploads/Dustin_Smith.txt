@@ -1,0 +1,23 @@
+Name: Dustin Smith
+Email: johnsonfrank@example.net
+Phone: 1515795888.0
+
+Education:
+Delhi University, 2021
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Python, Data Visualization, Statistics, NumPy
+
+Resume Text:
+Name: Dustin Smith
+        EmaIl: johnsonfraNk@exAMple.net
+        Phone: 1515795888
+
+        EduCation:
+        BacheLor's DegreE from DelhI UnIversity, 2021
+
+        WOrk ExPerieNce:
+        6 yearS of eXpERiencE woRkinG as a DatA

@@ -1,0 +1,25 @@
+Name: James Williams
+Email: shieldscarl@example.org
+Phone: 8702593762.0
+
+Education:
+IIM Ahmedabad, 2017
+
+Work Experience:
+4 years of experience working as a Data Scientist.
+
+Skills:
+Data Visualization, TensorFlow, Python, Pandas, SQL
+
+Resume Text:
+Name: James Williams
+        Email: shieldscarl@example.org
+        Phone: 8702593762
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2017
+
+        Work Experience:
+        4 years of experience working as a  Scientist.
+
+        Sk

@@ -1,0 +1,30 @@
+Name: Kendra Peterson
+Email: hillmegan@example.org
+Phone: 6584980060.0
+
+Education:
+Anna University, 2021
+
+Work Experience:
+1 years of experience working as a Data Scientist.
+
+Skills:
+NumPy, NLP, Machine Learning, TensorFlow, Python
+
+Resume Text:
+Name: Kendra Peterson
+        Email: hillmegan@example.org
+        Phone: 6584980060
+
+        Education:
+        Bachelor's Degree from Anna University, 2021
+
+        Work Experience:
+        1 years of experience working as a  Scientist.
+
+        Skills:
+        NumPy, NLP, Machine Learning, TensorFlow, Python
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in NumPy, NLP, Machine Learning.
+         lorem ipsum

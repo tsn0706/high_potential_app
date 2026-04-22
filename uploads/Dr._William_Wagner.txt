@@ -1,0 +1,29 @@
+Name: Dr. William Wagner
+Email: tinanewton@example.com
+Phone: 2387127798.0
+
+Education:
+Anna University, 2015
+
+Work Experience:
+8 years of experience working as a Data Scientist.
+
+Skills:
+Kubernetes, Python, Git, REST API, C++
+
+Resume Text:
+Name: Dr. William Wagner
+        Email: tinanewton@example.com
+        Phone: 2387127798
+
+        Education:
+        Bachelor's Degree from Anna University, 2015
+
+        Work Experience:
+        8 years of experience working as a Software Engineer.
+
+        Skills:
+        Kubernetes, , Git, REST API, C++
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Kubernetes, , Git.

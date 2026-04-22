@@ -1,0 +1,25 @@
+Name: Brandi White
+Email: eric86@example.org
+Phone: 1043996694.0
+
+Education:
+Delhi University, 2017
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+Data Visualization, NLP, Pandas, Scikit-learn, SQL
+
+Resume Text:
+Name: Brandi White
+        Email: eric86@example.org
+        Phone: 1043996694
+
+        Education:
+        Bachelor's Degree from Delhi University, 2017
+
+        Work Experience:
+        5 years of experience working as a  Scientist.
+
+        Skill

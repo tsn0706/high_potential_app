@@ -1,0 +1,23 @@
+Name: Anna Jackson
+Email: ogriffith@example.org
+Phone: 1363771549.0
+
+Education:
+IIM Ahmedabad, 2017
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+Machine Learning, NLP, Pandas, Scikit-learn, Python
+
+Resume Text:
+Name: Anna Jackson
+        Email: ogriffith@example.org
+        Phone: 1363771549
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2017
+
+        Work Experience:
+        0 years of experience working as

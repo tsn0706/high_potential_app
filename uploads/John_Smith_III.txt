@@ -1,0 +1,26 @@
+Name: John Smith III
+Email: douglas18@example.com
+Phone: 3589600995.0
+
+Education:
+Jadavpur University, 2020
+
+Work Experience:
+7 years of experience working as a Software Engineer.
+
+Skills:
+Microservices, Spring Boot, Git, Docker, REST API
+
+Resume Text:
+Name: John Smith III
+        Email: douglas18@example.com
+        Phone: 3589600995
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2020
+
+        Work Experience:
+        7 years of experience working as a Software Engineer.
+
+        Skills:
+        Microservice

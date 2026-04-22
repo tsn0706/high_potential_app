@@ -1,0 +1,23 @@
+Name: Phyllis Hoffman
+Email: lynn52@example.org
+Phone: 6751434278.0
+
+Education:
+IIT Delhi, 2021
+
+Work Experience:
+1 years of experience working as a Data Scientist.
+
+Skills:
+Scikit-learn, NLP, Python, SQL, NumPy
+
+Resume Text:
+Name: Phyllis Hoffman
+        Email: lynn52@example.org
+        Phone: 6751434278
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2021
+
+        Work Experience:
+        1 years of experience workin

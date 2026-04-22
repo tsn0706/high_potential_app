@@ -1,0 +1,25 @@
+Name: Victor Jones DDS
+Email: watsonkathy@example.net
+Phone: 9698685093.0
+
+Education:
+BITS Pilani, 2021
+
+Work Experience:
+2 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow,  SQL,  Python, NLP,  Machine Learning
+
+Resume Text:
+Name: Victor Jones DDS
+        Email: watsonkathy@example.net
+        Phone: 9698685093
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2021
+
+        Work Experience:
+        2 years of experience working as a  Scientist.
+
+        Skills:

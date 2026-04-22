@@ -1,0 +1,23 @@
+Name: Tara Gonzalez
+Email: deborah75@example.com
+Phone: 8371518054.0
+
+Education:
+Jadavpur University, 2018
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+Python, Machine Learning, NumPy, Scikit-learn, SQL
+
+Resume Text:
+Name: Tara Gonzalez
+        Email: deborah75@example.com
+        Phone: 8371518054
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2018
+
+        Work Experience:
+        3 years of experience working as a Data Scientist.

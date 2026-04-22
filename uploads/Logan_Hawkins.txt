@@ -1,0 +1,45 @@
+Name: Logan Hawkins
+Email: julie70@example.net
+Phone: 4221677949.0
+
+Education:
+BITS Pilani, 2018
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+SQL, Statistics, Pandas, Machine Learning, TensorFlow
+
+Resume Text:
+Name: Logan Hawkins
+        Email: julie70@example.net
+        Phone: 4221677949
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2018
+
+        Work Experience:
+        3 years of experience working as a  Scientist.
+
+        Skills:
+        SQL, Statistics, Pandas, Machine Learning, TensorFlow
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, Statistics, Pandas.
+         
+        Name: Logan Hawkins
+        Email: julie70@example.net
+        Phone: 4221677949
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2018
+
+        Work Experience:
+        3 years of experience working as a  Scientist.
+
+        Skills:
+        SQL, Statistics, Pandas, Machine Learning, TensorFlow
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, Statistics, Pandas.

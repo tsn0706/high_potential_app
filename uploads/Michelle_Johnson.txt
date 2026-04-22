@@ -1,0 +1,29 @@
+Name: Michelle Johnson
+Email: lewilliam@example.org
+Phone: 3419498514.0
+
+Education:
+BITS Pilani, 2017
+
+Work Experience:
+4 years of experience working as a HR Executive.
+
+Skills:
+Java, REST API, OOP, Kubernetes, Python
+
+Resume Text:
+Name: Michelle Johnson
+        Email: lewilliam@example.org
+        Phone: 3419498514
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2017
+
+        Work Experience:
+        4 years of experience working as a Software Engineer.
+
+        Skills:
+        Java, REST API, OOP, Kubernetes, Python
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Java, REST API, OOP.

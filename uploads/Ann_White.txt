@@ -1,0 +1,23 @@
+Name: Ann White
+Email: rebeccabell@example.com
+Phone: 1502052252.0
+
+Education:
+IIT Delhi, 2022
+
+Work Experience:
+7 years of experience working as a Software Engineer.
+
+Skills:
+OOP, Microservices, Python, Git, Kubernetes
+
+Resume Text:
+Name: Ann White
+        Email: rebeccabell@example.com
+        Phone: 1502052252
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2022
+
+        Work Experience:
+        7 years of experience working as a Software Engineer

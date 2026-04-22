@@ -1,0 +1,23 @@
+Name: Tonya Campbell
+Email: hmyers@example.com
+Phone: 1087373162.0
+
+Education:
+BITS Pilani, 2015
+
+Work Experience:
+2 years of experience working as a Data Scientist.
+
+Skills:
+Python, NumPy, SQL, Statistics, Pandas
+
+Resume Text:
+Name: Tonya Campbell
+        Email: hmyers@example.com
+        Phone: 1087373162
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2015
+
+        Work Experience:
+        2 years of experience working as a  Scientist.

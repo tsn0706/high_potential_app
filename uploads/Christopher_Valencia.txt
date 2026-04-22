@@ -1,0 +1,29 @@
+Name: Christopher Valencia
+Email: smitherika@example.net
+Phone: 9956740707.0
+
+Education:
+IIM Ahmedabad, 2017
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Scikit-learn, Python, TensorFlow, Data Visualization
+
+Resume Text:
+Name: Christopher Valencia
+        Email: smitherika@example.net
+        Phone: 9956740707
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2017
+
+        Work Experience:
+        5 years of experience working as a Data Scientist.
+
+        Skills:
+        NLP, Scikit-learn, Python, TensorFlow, Data Visualization
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in NLP, Scikit-learn, Python.

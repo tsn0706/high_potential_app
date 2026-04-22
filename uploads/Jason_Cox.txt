@@ -1,0 +1,23 @@
+Name: Jason Cox
+Email: steven87@example.net
+Phone: 5264182231.0
+
+Education:
+Mumbai University, 2023
+
+Work Experience:
+2 years of experience working as a Software Engineer.
+
+Skills:
+Git, REST API, Spring Boot, Java, C++
+
+Resume Text:
+Name: Jason Cox
+        Email: steven87@example.net
+        Phone: 5264182231
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2023
+
+        Work Experience:
+        2 years of experience working as a Software Engineer.

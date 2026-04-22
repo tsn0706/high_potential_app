@@ -1,0 +1,23 @@
+Name: Larry Caldwell
+Email: wendy89@example.org
+Phone: 8158666902.0
+
+Education:
+Jadavpur University, 2020
+
+Work Experience:
+6 years of experience working as a Software Engineer.
+
+Skills:
+Pandas, Python, TensorFlow, Statistics, Machine Learning
+
+Resume Text:
+Name: Larry Caldwell
+        Email: wendy89@example.org
+        Phone: 8158666902
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2020
+
+        Work Experience:
+        6 years of experience working a

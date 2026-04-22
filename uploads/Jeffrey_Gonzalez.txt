@@ -1,0 +1,46 @@
+Name: Jeffrey Gonzalez
+Email: clarkesteven@example.org
+Phone: 6040422223.0
+
+Education:
+IIM Ahmedabad, 2016
+
+Work Experience:
+5 years of experience working as a HR Executive.
+
+Skills:
+C++, Microservices, Docker, Spring Boot, REST API
+
+Resume Text:
+Name: Jeffrey Gonzalez
+        Email: clarkesteven@example.org
+        Phone: 6040422223
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2016
+
+        Work Experience:
+        5 years of experience working as a Software Engineer.
+
+        Skills:
+        C++, Microservices, Docker, Spring Boot, REST API
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in C++, Microservices, Docker.
+         Bridged software engineering and business operations 
+        Name: Jeffrey Gonzalez
+        Email: clarkesteven@example.org
+        Phone: 6040422223
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2016
+
+        Work Experience:
+        5 years of experience working as a Software Engineer.
+
+        Skills:
+        C++, Microservices, Docker, Spring Boot, REST API
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in C++, Microservices, Docker.
+         Bridged software engineering and business operations

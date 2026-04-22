@@ -1,0 +1,29 @@
+Name: John Howard MD
+Email: ocobb@example.org
+Phone: 1613920542.0
+
+Education:
+IIT Delhi, 2016
+
+Work Experience:
+6 years of experience working as a Software Engineer.
+
+Skills:
+Python, Java, REST API, Kubernetes, OOP
+
+Resume Text:
+Name: John Howard MD
+        Email: ocobb@example.org
+        Phone: 1613920542
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2016
+
+        Work Experience:
+        6 years of experience working as a Software Engineer.
+
+        Skills:
+        Python, Java, REST API, Kubernetes, OOP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Python, Java, REST API.

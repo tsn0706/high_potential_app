@@ -1,0 +1,30 @@
+Name: Jack Moore
+Email: nan
+Phone: nan
+
+Education:
+nan, 2015
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+nan
+
+Resume Text:
+Name: Jack Moore
+        Email: matthew03@example.cOm
+        PhOne: 3749137338
+
+        EducaTion:
+        BacheLor's DegReE FroM BITS PIlani, 2015
+
+        WorK ExperieNcE:
+        7 years of experience working as a DaTa Scientist.
+
+        Skills:
+        NLP, TeNSorFlow, MaChine LEarning, NumPY, ScikIt-Learn
+
+        PRojects:
+        Worked on multiple indusTry-Relevant projects demoNstRating expertise in NLP, TensORFlow, MachiNe Learning.
+         Experienced in leadership and cross-functional collaboration. lorem ipsum

@@ -1,0 +1,30 @@
+Name: Nicole Martinez
+Email: richard64@example.com
+Phone: 6549187892.0
+
+Education:
+Mumbai University, 2015
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, Scikit-learn, Data Visualization, NLP, Machine Learning
+
+Resume Text:
+Name: Nicole Martinez
+        Email: richard64@example.com
+        Phone: 6549187892
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2015
+
+        Work Experience:
+        3 years of experience working as a  Scientist.
+
+        Skills:
+        Statistics, Scikit-learn,  Visualization, NLP, Machine Learning
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, Scikit-learn,  Visualization.
+         Bridged software engineering and business operations

@@ -1,0 +1,30 @@
+Name: Benjamin Ritter
+Email: crawfordkenneth@example.net
+Phone: 5757150726.0
+
+Education:
+Mumbai University, 2021
+
+Work Experience:
+0 years of experience working as a Software Engineer.
+
+Skills:
+Microservices, Kubernetes, OOP, Python, Docker
+
+Resume Text:
+Name: Benjamin Ritter
+        Email: crawfordkenneth@example.net
+        Phone: 5757150726
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2021
+
+        Work Experience:
+        0 years of experience working as a Software Engineer.
+
+        Skills:
+        Microservices, Kubernetes, OOP, Python, Docker
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Microservices, Kubernetes, OOP.
+         Proficient in project management and stakeholder coordination. placeholder content Bridged software engineering and business operations

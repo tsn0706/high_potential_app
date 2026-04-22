@@ -1,0 +1,46 @@
+Name: Benjamin Keith
+Email: dominique56@example.net
+Phone: 1162995572.0
+
+Education:
+IIM Ahmedabad, 2017
+
+Work Experience:
+0 years of experience working as a Software Engineer.
+
+Skills:
+Spring Boot, Docker, OOP, REST API, Python
+
+Resume Text:
+Name: Benjamin Keith
+        Email: dominique56@example.net
+        Phone: 1162995572
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2017
+
+        Work Experience:
+        0 years of experience working as a Software Engineer.
+
+        Skills:
+        Spring Boot, Docker, OOP, REST API, 
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Spring Boot, Docker, OOP.
+         Results-driven professional with analytical mindset. 
+        Name: Benjamin Keith
+        Email: dominique56@example.net
+        Phone: 1162995572
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2017
+
+        Work Experience:
+        0 years of experience working as a Software Engineer.
+
+        Skills:
+        Spring Boot, Docker, OOP, REST API, 
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Spring Boot, Docker, OOP.
+         Results-driven professional with analytical mindset.

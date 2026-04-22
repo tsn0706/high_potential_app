@@ -1,0 +1,23 @@
+Name: John Kline
+Email: erickhan@example.org
+Phone: 5880775839.0
+
+Education:
+Anna University, 2023
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Python, NumPy, Machine Learning, NLP
+
+Resume Text:
+Name: John Kline
+        Email: erickhan@example.org
+        Phone: 5880775839
+
+        Education:
+        Bachelor's Degree from Anna University, 2023
+
+        Work Experience:
+        0 years of experience working as

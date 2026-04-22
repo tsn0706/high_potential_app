@@ -1,0 +1,25 @@
+Name: Todd Thomas
+Email: nan
+Phone: nan
+
+Education:
+nan, 2022
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+nan
+
+Resume Text:
+Name: Todd Thomas
+        Email: ebrown@example.net
+        Phone: 3668318951
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2022
+
+        Work Experience:
+        5 years of experience working as a Data Scientist.
+
+        Skills:

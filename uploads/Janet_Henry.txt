@@ -1,0 +1,47 @@
+Name: Janet Henry
+Email: katherine13@example.com
+Phone: 1046281604.0
+
+Education:
+Anna University, 2022
+
+Work Experience:
+2 years of experience working as a Data Scientist.
+
+Skills:
+Pandas,  NumPy,  NLP,  Scikit-learn, Pytho
+
+Resume Text:
+Name: Janet Henry
+        Email: katherine13@example.com
+        Phone: 1046281604
+
+        Education:
+        Bachelor's Degree from Anna University, 2022
+
+        Work Experience:
+        2 years of experience working as a Data Scientist.
+
+        Skills:
+        Pandas, NumPy, NLP, Scikit-learn, Python
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Pandas, NumPy, NLP.
+         
+
+    
+        Name: Janet Henry
+        Email: katherine13@example.com
+        Phone: 1046281604
+
+        Education:
+        Bachelor's Degree from Anna University, 2022
+
+        Work Experience:
+        2 years of experience working as a Data Scientist.
+
+        Skills:
+        Pandas, NumPy, NLP, Scikit-learn, Python
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Pandas, NumPy, NLP.

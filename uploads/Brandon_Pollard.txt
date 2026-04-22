@@ -1,0 +1,30 @@
+Name: Brandon Pollard
+Email: amandadickson@example.com
+Phone: 4943278205.0
+
+Education:
+Jadavpur University, 2019
+
+Work Experience:
+1 years of experience working as a Data Scientist.
+
+Skills:
+Pandas, NumPy, Data Visualization, SQL, NLP
+
+Resume Text:
+Name: Brandon Pollard
+        Email: amandadickson@example.com
+        Phone: 4943278205
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2019
+
+        Work Experience:
+        1 years of experience working as a Data Scientist.
+
+        Skills:
+        Pandas, NumPy, Data Visualization, SQL, NLP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Pandas, NumPy, Data Visualization.
+         Strong communication skills and teamwork experience. miscellaneous experience Bridged software engineering and business operations

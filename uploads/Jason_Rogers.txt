@@ -1,0 +1,25 @@
+Name: Jason Rogers
+Email: zpatterson@example.org
+Phone: 2973462480.0
+
+Education:
+Mumbai University, 2022
+
+Work Experience:
+2 years of experience working as a Marketing Manager.
+
+Skills:
+Microservices, REST API, OOP, Spring Boot, C++
+
+Resume Text:
+Name: Jason Rogers
+        Email: zpatterson@example.org
+        Phone: 2973462480
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2022
+
+        Work Experience:
+        2 years of experience working as a Software Engineer.
+
+        S

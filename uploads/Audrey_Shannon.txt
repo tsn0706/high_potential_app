@@ -1,0 +1,30 @@
+Name: Audrey Shannon
+Email: michael24@example.com
+Phone: 136539662.0
+
+Education:
+IIT Delhi, 2021
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+Data Visualization, TensorFlow, NLP, Statistics, SQL
+
+Resume Text:
+Name: Audrey Shannon
+        Email: michael24@example.com
+        Phone: 0136539662
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2021
+
+        Work Experience:
+        7 years of experience working as a  Scientist.
+
+        Skills:
+         Visualization, TensorFlow, NLP, Statistics, SQL
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in  Visualization, TensorFlow, NLP.
+         Bridged software engineering and business operations

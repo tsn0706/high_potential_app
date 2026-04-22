@@ -1,0 +1,23 @@
+Name: Bryan Miller
+Email: andrew97@example.net
+Phone: 1649050704.0
+
+Education:
+Jadavpur University, 2016
+
+Work Experience:
+8 years of experience working as a Data Scientist.
+
+Skills:
+Pandas, Scikit-learn, NumPy, TensorFlow, NLP
+
+Resume Text:
+Name: Bryan Miller
+        Email: andrew97@example.net
+        Phone: 1649050704
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2016
+
+        Work Experience:
+        8 years of experience working as a Data Scientist.

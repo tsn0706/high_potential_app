@@ -1,0 +1,32 @@
+Name: Julie Brown
+Email: julie74@example.net
+Phone: 367860769.0
+
+Education:
+BITS Pilani, 2021
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Scikit-learn, Machine Learning, Data Visualization, TensorFlow
+
+Resume Text:
+Name: Julie Brown
+        Email: julie74@example.net
+        Phone: 0367860769
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2021
+
+        Work Experience:
+        3 years of experience working as a  Scientist.
+
+        Skills:
+        NLP, Scikit-learn, Machine Learning,  Visualization, TensorFlow
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in NLP, Scikit-learn, Machine Learning.
+         
+
+ Results-driven professional with analytical mindset. Bridged software engineering and business operations

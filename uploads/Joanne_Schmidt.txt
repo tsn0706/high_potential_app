@@ -1,0 +1,30 @@
+Name: Joanne Schmidt
+Email: vwoods@example.com
+Phone: 3630639057.0
+
+Education:
+IIM Ahmedabad, 2016
+
+Work Experience:
+4 years of experience working as a Software Engineer.
+
+Skills:
+OOP, Microservices, Python, C++, REST API
+
+Resume Text:
+Name: Joanne Schmidt
+        Email: vwoods@example.com
+        Phone: 3630639057
+
+        Education:
+        Bachelor's Degree from IIM Ahmedabad, 2016
+
+        Work Experience:
+        4 years of experience working as a Software Engineer.
+
+        Skills:
+        OOP, Microservices, Python, C++, REST API
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in OOP, Microservices, Python.
+         Results-driven professional with analytical mindset. miscellaneous experience Worked in cross-domain tech-finance environment

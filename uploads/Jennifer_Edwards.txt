@@ -1,0 +1,29 @@
+Name: Jennifer Edwards
+Email: christinadavila@example.net
+Phone: 451573304.0
+
+Education:
+Delhi University, 2016
+
+Work Experience:
+1 years of experience working as a Software Engineer.
+
+Skills:
+Git,  Microservices,  OOP,  Docker,  Kubernetes
+
+Resume Text:
+Name: Jennifer Edwards
+        Email: christinadavila@example.net
+        Phone: 0451573304
+
+        Education:
+        Bachelor's Degree from Delhi University, 2016
+
+        Work Experience:
+        1 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, Microservices, OOP, Docker, Kubernetes
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, Microservices, OOP.

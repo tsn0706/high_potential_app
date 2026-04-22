@@ -1,0 +1,46 @@
+Name: Lori Gonzalez
+Email: tammie61@example.org
+Phone: 2915214955.0
+
+Education:
+Mumbai University, 2021
+
+Work Experience:
+3 years of experience working as a Software Engineer.
+
+Skills:
+Git, Spring Boot, Microservices, OOP, Kubernetes
+
+Resume Text:
+Name: Lori Gonzalez
+        Email: tammie61@example.org
+        Phone: 2915214955
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2021
+
+        Work Experience:
+        3 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, Spring Boot, Microservices, OOP, Kubernetes
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, Spring Boot, Microservices.
+         Strong communication skills and teamwork experience. placeholder content 
+        Name: Lori Gonzalez
+        Email: tammie61@example.org
+        Phone: 2915214955
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2021
+
+        Work Experience:
+        3 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, Spring Boot, Microservices, OOP, Kubernetes
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, Spring Boot, Microservices.
+         Strong communication skills and teamwork experience. placeholder content

@@ -1,0 +1,23 @@
+Name: Phyllis Weaver
+Email: zhenry@example.org
+Phone: 1270431828.0
+
+Education:
+Anna University, 2023
+
+Work Experience:
+5 years of experience working as a HR Executive.
+
+Skills:
+Docker, Spring Boot, C++, Kubernetes, Microservices
+
+Resume Text:
+Name: Phyllis Weaver
+        Email: zhenry@example.org
+        Phone: 1270431828
+
+        Education:
+        Bachelor's Degree from Anna University, 2023
+
+        Work Experience:
+        5 years of experience working as a Software Engineer.

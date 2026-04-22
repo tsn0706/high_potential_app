@@ -1,9 +1,9 @@
 {
     "main_weights": {
-        "Skills": 1.5,
-        "Experience": 1,
-        "Education": 1.2,
-        "JobRole": 2,
+        "Skills": 2,
+        "Experience": 1.5,
+        "Education": 1.9,
+        "JobRole": 3,
         "Resume": 0.5
     },
     "sub_items": {
@@ -43,5 +43,5 @@
             "bachelor": 1
         }
     },
-    "threshold": 15
+    "threshold": 20
 }

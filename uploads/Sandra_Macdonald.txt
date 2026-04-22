@@ -1,0 +1,23 @@
+Name: Sandra Macdonald
+Email: eward@example.net
+Phone: 1230952142.0
+
+Education:
+Anna University, 2018
+
+Work Experience:
+4 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Data Visualization, NumPy, TensorFlow, Python
+
+Resume Text:
+Name: Sandra Macdonald
+        Email: eward@example.net
+        Phone: 1230952142
+
+        Education:
+        Bachelor's Degree from Anna University, 2018
+
+        Work Experience:
+        4 years of experience working as a Data Scie

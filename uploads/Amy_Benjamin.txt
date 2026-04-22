@@ -1,0 +1,23 @@
+Name: Amy Benjamin
+Email: alexanderjenna@example.com
+Phone: 127844564.0
+
+Education:
+BITS Pilani, 2015
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+Pandas, SQL, Machine Learning, NLP, Statistics
+
+Resume Text:
+Name: Amy Benjamin
+        Email: alexanderjenna@example.com
+        Phone: 0127844564
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2015
+
+        Work Experience:
+        6 years of experience working a

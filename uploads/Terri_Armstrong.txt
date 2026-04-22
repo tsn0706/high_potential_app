@@ -1,0 +1,23 @@
+Name: Terri Armstrong
+Email: johnathanlong@example.org
+Phone: 9590390596.0
+
+Education:
+Jadavpur University, 2018
+
+Work Experience:
+2 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, TensorFlow, NLP, Pandas, Python
+
+Resume Text:
+Name: Terri Armstrong
+        Email: johnathanlong@example.org
+        Phone: 9590390596
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2018
+
+        Work Experience:
+        2 years of experience working as a Data Scientist.

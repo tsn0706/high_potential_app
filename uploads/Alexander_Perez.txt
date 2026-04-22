@@ -1,0 +1,23 @@
+Name: Alexander Perez
+Email: stanleyjennifer@example.org
+Phone: 39377909.0
+
+Education:
+Jadavpur University, 2023
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Machine Learning, Pandas, SQL, Data Visualization
+
+Resume Text:
+Name: Alexander Perez
+        Email: stanleyjennifer@example.org
+        Phone: 0039377909
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2023
+
+        Work Experience:
+        0 years of experience working

@@ -1,0 +1,30 @@
+Name: Jamie Ramos
+Email: logan01@example.com
+Phone: 1045607615.0
+
+Education:
+Jadavpur University, 2023
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, Python, Pandas, Data Visualization, Scikit-learn
+
+Resume Text:
+Name: Jamie Ramos
+        Email: logan01@example.com
+        Phone: 1045607615
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2023
+
+        Work Experience:
+        6 years of experience working as a Data Scientist.
+
+        Skills:
+        Statistics, Python, Pandas, Data Visualization, Scikit-learn
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, Python, Pandas.
+         Experienced in leadership and cross-functional collaboration. Worked in cross-domain tech-finance environment

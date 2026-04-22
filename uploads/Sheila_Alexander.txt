@@ -1,0 +1,23 @@
+Name: Sheila Alexander
+Email: dillonsanchez@example.org
+Phone: 5239413360.0
+
+Education:
+IIT Delhi, 2022
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Data Visualization, Python, SQL, NLP
+
+Resume Text:
+Name: Sheila Alexander
+        Email: dillonsanchez@example.org
+        Phone: 5239413360
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2022
+
+        Work Experience:
+        7 years of experience working

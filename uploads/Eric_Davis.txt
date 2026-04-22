@@ -1,0 +1,29 @@
+Name: Eric Davis
+Email: richard32@example.net
+Phone: 2894796370.0
+
+Education:
+Anna University, 2018
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+Data Visualization, Statistics, Machine Learning, NLP, SQL
+
+Resume Text:
+Name: Eric Davis
+        Email: richard32@example.net
+        Phone: 2894796370
+
+        Education:
+        Bachelor's Degree from Anna University, 2018
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        Data Visualization, Statistics, Machine Learning, NLP, SQL
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Data Visualization, Statistics, Machine Learning.

@@ -1,0 +1,29 @@
+Name: William Moore
+Email: barbaramorris@example.org
+Phone: 8269386474.0
+
+Education:
+Mumbai University, 2016
+
+Work Experience:
+6 years of experience working as a Software Engineer.
+
+Skills:
+OOP, Kubernetes, Spring Boot, Docker, Git
+
+Resume Text:
+Name: William Moore
+        Email: barbaramorris@example.org
+        Phone: 8269386474
+
+        Education:
+        Bachelor's Degree from Mumbai University, 2016
+
+        Work Experience:
+        6 years of experience working as a Software Engineer.
+
+        Skills:
+        OOP, Kubernetes, Spring Boot, Docker, Git
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in OOP, Kubernetes, Spring Boot.

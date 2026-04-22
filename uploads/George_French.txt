@@ -1,0 +1,30 @@
+Name: George French
+Email: martinezjonathon@example.net
+Phone: 4300902920.0
+
+Education:
+IIT Delhi, 2017
+
+Work Experience:
+8 years of experience working as a Data Scientist.
+
+Skills:
+Data Visualization, Pandas, Scikit-learn, SQL, Python
+
+Resume Text:
+Name: George French
+        Email: martinezjonathon@example.net
+        Phone: 4300902920
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2017
+
+        Work Experience:
+        8 years of experience working as a Data Scientist.
+
+        Skills:
+        Data Visualization, Pandas, Scikit-learn, SQL, Python
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Data Visualization, Pandas, Scikit-learn.
+         Strong communication skills and teamwork experience.

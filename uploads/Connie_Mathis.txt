@@ -1,0 +1,23 @@
+Name: Connie Mathis
+Email: nan
+Phone: nan
+
+Education:
+nan, 2019
+
+Work Experience:
+2 years of experience working as a Data Scientist.
+
+Skills:
+nan
+
+Resume Text:
+Name: Connie Mathis
+        Email: pblake@example.org
+        Phone: 5168695514
+
+        Education:
+        Bachelor's Degree from Anna University, 2019
+
+        Work Experience:
+        2 years of experience working as a Data

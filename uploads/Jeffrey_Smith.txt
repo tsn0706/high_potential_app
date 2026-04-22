@@ -1,0 +1,30 @@
+Name: Jeffrey Smith
+Email: johnbowen@example.com
+Phone: 1432827490.0
+
+Education:
+BITS Pilani, 2015
+
+Work Experience:
+5 years of experience working as a Data Scientist.
+
+Skills:
+SQL, TensorFlow, NLP, Machine Learning, Data Visualization
+
+Resume Text:
+Name: Jeffrey Smith
+        Email: johnbowen@example.com
+        Phone: 1432827490
+
+        Education:
+        Bachelor's Degree from BITS Pilani, 2015
+
+        Work Experience:
+        5 years of experience working as a  Scientist.
+
+        Skills:
+        SQL, TensorFlow, NLP, Machine Learning,  Visualization
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, TensorFlow, NLP.
+         Worked in cross-domain tech-finance environment

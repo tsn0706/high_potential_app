@@ -1,0 +1,23 @@
+Name: Kristin Patel
+Email: samanthamejia@example.com
+Phone: 9346986107.0
+
+Education:
+Anna University, 2015
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+NumPy, Scikit-learn, Machine Learning, SQL, Data Visualization
+
+Resume Text:
+Name: Kristin Patel
+        Email: samanthamejia@example.com
+        Phone: 9346986107
+
+        Education:
+        Bachelor's Degree from Anna University, 2015
+
+        Work Experience:
+        0 years of experience working as a Data Scientist.

@@ -1,0 +1,23 @@
+Name: Ryan Morris
+Email: hughesgregory@example.com
+Phone: 5037939582.0
+
+Education:
+Delhi University, 2020
+
+Work Experience:
+3 years of experience working as a Software Engineer.
+
+Skills:
+Java, C++, Git, Python, Docker
+
+Resume Text:
+Name: Ryan Morris
+        Email: hughesgregory@example.com
+        Phone: 5037939582
+
+        Education:
+        Bachelor's Degree from Delhi University, 2020
+
+        Work Experience:
+        3 years of experience working as a Software

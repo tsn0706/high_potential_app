@@ -1,0 +1,26 @@
+Name: Jessica Johnson
+Email: millerjennifer@example.org
+Phone: 5039106558.0
+
+Education:
+Anna University, 2023
+
+Work Experience:
+0 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Statistics, SQL, Machine Learning, Python
+
+Resume Text:
+Name: Jessica Johnson
+        Email: millerjennifer@example.org
+        Phone: 5039106558
+
+        Education:
+        Bachelor's Degree from Anna University, 2023
+
+        Work Experience:
+        0 years of experience working as a Data Scientist.
+
+        Skills:
+        NL

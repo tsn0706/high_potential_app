@@ -1,0 +1,45 @@
+Name: Charles Carroll
+Email: williamcastillo@example.com
+Phone: 7071541994.0
+
+Education:
+Anna University, 2015
+
+Work Experience:
+6 years of experience working as a Software Engineer.
+
+Skills:
+Git, Python, Docker, C++, OOP
+
+Resume Text:
+Name: Charles Carroll
+        Email: williamcastillo@example.com
+        Phone: 7071541994
+
+        Education:
+        Bachelor's Degree from Anna University, 2015
+
+        Work Experience:
+        6 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, Python, Docker, C++, OOP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, Python, Docker.
+         
+        Name: Charles Carroll
+        Email: williamcastillo@example.com
+        Phone: 7071541994
+
+        Education:
+        Bachelor's Degree from Anna University, 2015
+
+        Work Experience:
+        6 years of experience working as a Software Engineer.
+
+        Skills:
+        Git, Python, Docker, C++, OOP
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Git, Python, Docker.

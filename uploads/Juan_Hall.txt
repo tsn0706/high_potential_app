@@ -1,0 +1,29 @@
+Name: Juan Hall
+Email: stephaniewalker@example.org
+Phone: 2559896448.0
+
+Education:
+Jadavpur University, 2021
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+Statistics, Pandas, Scikit-learn, NLP, NumPy
+
+Resume Text:
+Name: Juan Hall
+        Email: stephaniewalker@example.org
+        Phone: 2559896448
+
+        Education:
+        Bachelor's Degree from Jadavpur University, 2021
+
+        Work Experience:
+        6 years of experience working as a Data Scientist.
+
+        Skills:
+        Statistics, Pandas, Scikit-learn, NLP, NumPy
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Statistics, Pandas, Scikit-learn.

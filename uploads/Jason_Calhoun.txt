@@ -1,0 +1,23 @@
+Name: Jason Calhoun
+Email: charlesgray@example.net
+Phone: 4417525860.0
+
+Education:
+Mumbai University, 2021
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Data Visualization, NumPy, SQL, TensorFlow
+
+Resume Text:
+Name: Jason Calhoun
+        Email: charlesgray@example.NEt
+        PHone: 4417525860
+
+        EducatiOn:
+        Bachelor's Degree from Mumbai University, 2021
+
+        Work Experience:
+        6 years oF experience WorkinG as a DAta

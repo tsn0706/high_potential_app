@@ -1,0 +1,23 @@
+Name: Billy Gallagher
+Email: gregory96@example.net
+Phone: 7933802119.0
+
+Education:
+IIT Delhi, 2019
+
+Work Experience:
+5 years of experience working as a Software Engineer.
+
+Skills:
+C++, Git, REST API, OOP, Kubernetes
+
+Resume Text:
+Name: Billy Gallagher
+        Email: gregory96@example.net
+        Phone: 7933802119
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2019
+
+        Work Experience:
+        5 years of experience working as a Software Engine

@@ -1,0 +1,46 @@
+Name: Carlos Campbell
+Email: susanharrison@example.org
+Phone: 9218917295.0
+
+Education:
+Delhi University, 2018
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+Python, NLP, Scikit-learn, Data Visualization, NumPy
+
+Resume Text:
+Name: Carlos Campbell
+        Email: susanharrison@example.org
+        Phone: 9218917295
+
+        Education:
+        Bachelor's Degree from Delhi University, 2018
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        Python, NLP, Scikit-learn, Data Visualization, NumPy
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Python, NLP, Scikit-learn.
+         Worked in cross-domain tech-finance environment 
+        Name: Carlos Campbell
+        Email: susanharrison@example.org
+        Phone: 9218917295
+
+        Education:
+        Bachelor's Degree from Delhi University, 2018
+
+        Work Experience:
+        7 years of experience working as a Data Scientist.
+
+        Skills:
+        Python, NLP, Scikit-learn, Data Visualization, NumPy
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Python, NLP, Scikit-learn.
+         Worked in cross-domain tech-finance environment

@@ -1,0 +1,30 @@
+Name: Richard Shields
+Email: preston51@example.net
+Phone: 6456177685.0
+
+Education:
+IIM Ahmedabad, 2019
+
+Work Experience:
+2 years of experience working as a Data Scientist.
+
+Skills:
+NLP, Scikit-learn, NumPy, Pandas, Data Visualization
+
+Resume Text:
+Name: RIchard Shields
+        Email: Preston51@example.net
+        Phone: 6456177685
+
+        EducatioN:
+        BAchelOr's Degree from IIM AHMedabaD, 2019
+
+        WorK EXperience:
+        2 yeaRs of experiencE Working as a  Scientist.
+
+        Skills:
+        NLP, ScIkiT-leArn, NumPy, PaNdas, DAta Visualization
+
+        Projects:
+        Worked on multiple iNdustry-Relevant pRojeCts demonsTrating expertise iN NLP, SCikiT-learn, NumPY.
+         Results-driven professional with analytical mindset.

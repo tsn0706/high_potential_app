@@ -1,0 +1,25 @@
+Name: Janet Martin
+Email: william29@example.net
+Phone: 2384826707.0
+
+Education:
+IIT Delhi, 2016
+
+Work Experience:
+8 years of experience working as a Data Scientist.
+
+Skills:
+Machine Learning, Pandas, TensorFlow, NLP, SQL
+
+Resume Text:
+Name: Janet Martin
+        Email: william29@example.net
+        Phone: 2384826707
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2016
+
+        Work Experience:
+        8 years of experience working as a Data Scientist.
+
+        Sk

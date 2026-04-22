@@ -1,0 +1,30 @@
+Name: Amy Sutton
+Email: ywilliams@example.net
+Phone: 204269756.0
+
+Education:
+Delhi University, 2016
+
+Work Experience:
+7 years of experience working as a Data Scientist.
+
+Skills:
+TensorFlow, Statistics, SQL, Data Visualization, Machine Learning
+
+Resume Text:
+Name: Amy Sutton
+        Email: ywilliams@example.net
+        Phone: 0204269756
+
+        Education:
+        Bachelor's Degree from Delhi University, 2016
+
+        Work Experience:
+        7 years of experience working as a  Scientist.
+
+        Skills:
+        TensorFlow, Statistics, SQL,  Visualization, Machine Learning
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in TensorFlow, Statistics, SQL.
+         Experienced in leadership and cross-functional collaboration. random text

@@ -1,0 +1,25 @@
+Name: Albert Ortiz
+Email: bhansen@example.org
+Phone: 5429854068.0
+
+Education:
+IIT Delhi, 2023
+
+Work Experience:
+6 years of experience working as a Data Scientist.
+
+Skills:
+SQL, Scikit-learn, Machine Learning, TensorFlow, NumPy
+
+Resume Text:
+Name: Albert Ortiz
+        Email: bhansen@example.org
+        Phone: 5429854068
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2023
+
+        Work Experience:
+        6 years of experience working as a Data Scientist.
+
+        Skills:

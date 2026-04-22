@@ -1,0 +1,45 @@
+Name: Wesley Chavez
+Email: nkennedy@example.net
+Phone: 6750199025.0
+
+Education:
+IIT Delhi, 2022
+
+Work Experience:
+3 years of experience working as a Data Scientist.
+
+Skills:
+SQL, Pandas, NLP, TensorFlow, Machine Learning
+
+Resume Text:
+Name: Wesley Chavez
+        Email: nkennedy@example.net
+        Phone: 6750199025
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2022
+
+        Work Experience:
+        3 years of experience working as a Data Scientist.
+
+        Skills:
+        SQL, Pandas, NLP, TensorFlow, Machine Learning
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, Pandas, NLP.
+         
+        Name: Wesley Chavez
+        Email: nkennedy@example.net
+        Phone: 6750199025
+
+        Education:
+        Bachelor's Degree from IIT Delhi, 2022
+
+        Work Experience:
+        3 years of experience working as a Data Scientist.
+
+        Skills:
+        SQL, Pandas, NLP, TensorFlow, Machine Learning
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in SQL, Pandas, NLP.

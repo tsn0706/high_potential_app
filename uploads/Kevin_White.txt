@@ -1,0 +1,46 @@
+Name: Kevin White
+Email: regina86@example.net
+Phone: 2957388394.0
+
+Education:
+Jadavpur University, 2017
+
+Work Experience:
+6 years of experience working as a Financial Analyst.
+
+Skills:
+NLP, TensorFlow, Scikit-learn, Statistics, Python
+
+Resume Text:
+Name: Kevin White
+        Email: regina86@exAmPlE.net
+        PhONE: 2957388394
+
+        Education:
+        BacheloR'S DegRee froM JAdavpur UnivErsitY, 2017
+
+        Work EXpErience:
+        6 years of experieNce workiNg as a  Scientist.
+
+        Skills:
+        NLP, TensorFlow, SciKit-learn, Statistics, PythOn
+
+        Projects:
+        Worked on multiple industRy-rElevant projeCts DeMonstrating expertise in NLP, TEnsoRFLoW, ScIkit-learn.
+         Strong communication skills and teamwork experience. Worked in cross-domain tech-finance environment 
+        Name: Kevin White
+        Email: regina86@exAmPlE.net
+        PhONE: 2957388394
+
+        Education:
+        BacheloR'S DegRee froM JAdavpur UnivErsitY, 2017
+
+        Work EXpErience:
+        6 years of experieNce workiNg as a  Scientist.
+
+        Skills:
+        NLP, TensorFlow, SciKit-learn, Statistics, PythOn
+
+        Projects:
+        Worked on multiple industRy-rElevant projeCts DeMonstrating expertise in NLP, TEnsoRFLoW, ScIkit-learn.
+         Strong communication skills and teamwork experience. Worked in cross-domain tech-finance environment

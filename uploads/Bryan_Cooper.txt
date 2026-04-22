@@ -1,0 +1,30 @@
+Name: Bryan Cooper
+Email: jimmythompson@example.net
+Phone: 2527330288.0
+
+Education:
+Delhi University, 2016
+
+Work Experience:
+3 years of experience working as a HR Executive.
+
+Skills:
+Python, Spring Boot, Microservices, Kubernetes, REST API
+
+Resume Text:
+Name: Bryan Cooper
+        Email: jimmythompson@example.net
+        Phone: 2527330288
+
+        Education:
+        Bachelor's Degree from Delhi University, 2016
+
+        Work Experience:
+        3 years of experience working as a Software Engineer.
+
+        Skills:
+        Python, Spring Boot, Microservices, Kubernetes, REST API
+
+        Projects:
+        Worked on multiple industry-relevant projects demonstrating expertise in Python, Spring Boot, Microservices.
+         miscellaneous experience
