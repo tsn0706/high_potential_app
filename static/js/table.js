@@ -1,13 +1,4 @@
 $(document).ready(function () {
-    // 1. 初始化 DataTable
-    if (!$.fn.DataTable.isDataTable("#resultTable")) {
-        $("#resultTable").DataTable({ 
-            destroy: true,
-            pageLength: 10, 
-            lengthChange: false, 
-            info: false 
-        });
-    }
 
     // 2. 詳情按鈕點擊事件
     $(document).off("click", ".detail-btn").on("click", ".detail-btn", function (e) {
